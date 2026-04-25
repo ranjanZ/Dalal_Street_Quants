@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "user_id": "12345",
+      "server_name": "MetaQuotes-Demo",
+      "broker": "vantage",
+      "name":   "abc"
+    },
+    {
+      "user_id": "11547356",
+      "server_name": "xyz",
+      "broker":"vantage",
+      "name":Ranjan
+    }
+  ]
+}
+
