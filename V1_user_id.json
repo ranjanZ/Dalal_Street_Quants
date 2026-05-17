@@ -20,27 +20,6 @@
       "broker": "MetaTrader",
       "name": "Baji(BM)",
       "valid_upto": "30-10-2026"
-    },
-    {
-      "user_id": "TEST_1779038802",
-      "server_name": "unknown",
-      "broker": "metaquotes-demo",
-      "name": "Test User",
-      "valid_upto": "16-06-2026"
-    },
-    {
-      "user_id": "34234",
-      "server_name": "unknown",
-      "broker": "my broker",
-      "name": "Ranjan M",
-      "valid_upto": "16-06-2026"
-    },
-    {
-      "user_id": "234234234",
-      "server_name": "unknown",
-      "broker": "2342342342",
-      "name": "42352355",
-      "valid_upto": "16-06-2026"
     }
   ]
 }
