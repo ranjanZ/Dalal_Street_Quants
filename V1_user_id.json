@@ -27,6 +27,13 @@
       "broker": "metaquotes-demo",
       "name": "Test User",
       "valid_upto": "16-06-2026"
+    },
+    {
+      "user_id": "34234",
+      "server_name": "unknown",
+      "broker": "my broker",
+      "name": "Ranjan M",
+      "valid_upto": "16-06-2026"
     }
   ]
 }
