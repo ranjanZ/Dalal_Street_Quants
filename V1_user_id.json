@@ -13,13 +13,6 @@
       "broker": "MetaTrader",
       "name": "Baji(BM)",
       "valid_upto": "30-10-2026"
-    },
-    {
-      "user_id": "11547356",
-      "server_name": "unknown",
-      "broker": "vantage",
-      "name": "Ranjan",
-      "valid_upto": "17-08-2026"
     }
   ]
 }
