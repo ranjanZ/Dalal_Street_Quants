@@ -41,6 +41,13 @@
       "broker": "xm",
       "name": "sohel",
       "valid_upto": "29-08-2026"
+    },
+    {
+      "user_id": "900909532143",
+      "server_name": "unknown",
+      "broker": "stoxpips-trade",
+      "name": "sohel",
+      "valid_upto": "03-09-2026"
     }
   ]
 }
