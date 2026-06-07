@@ -48,6 +48,13 @@
       "broker": "stoxpips-trade",
       "name": "sohel",
       "valid_upto": "03-09-2026"
+    },
+    {
+      "user_id": "433725217",
+      "server_name": "unknown",
+      "broker": "exness",
+      "name": "nirmal Singh",
+      "valid_upto": "05-09-2026"
     }
   ]
 }
