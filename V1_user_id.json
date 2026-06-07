@@ -86,6 +86,14 @@
       "name": "gdfg",
       "account_type": "real",
       "valid_upto": "05-09-2026"
+    },
+    {
+      "user_id": "34235",
+      "server_name": "unknown",
+      "broker": "xm",
+      "name": "Ranjan",
+      "account_type": "demo",
+      "valid_upto": "05-09-2026"
     }
   ]
 }
