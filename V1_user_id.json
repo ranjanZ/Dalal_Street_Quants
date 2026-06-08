@@ -62,6 +62,13 @@
       "broker": "exness",
       "name": "nirmal singh",
       "valid_upto": "06-09-2026"
+    },
+    {
+      "user_id": "900909619872",
+      "server_name": "unknown",
+      "broker": "agile global ltd.",
+      "name": "sohel",
+      "valid_upto": "06-09-2026"
     }
   ]
 }
