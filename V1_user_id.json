@@ -55,6 +55,13 @@
       "broker": "exness",
       "name": "nirmal Singh",
       "valid_upto": "05-09-2026"
+    },
+    {
+      "user_id": "160048885",
+      "server_name": "unknown",
+      "broker": "exness",
+      "name": "nirmal singh",
+      "valid_upto": "06-09-2026"
     }
   ]
 }
