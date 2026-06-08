@@ -76,6 +76,13 @@
       "broker": "stoxpips-trade",
       "name": "sohel",
       "valid_upto": "06-09-2026"
+    },
+    {
+      "user_id": "514327731",
+      "server_name": "unknown",
+      "broker": "goatfunded-server3",
+      "name": "sohel",
+      "valid_upto": "06-09-2026"
     }
   ]
 }
