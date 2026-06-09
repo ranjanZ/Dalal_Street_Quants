@@ -83,6 +83,14 @@
       "broker": "goatfunded-server3",
       "name": "sohel",
       "valid_upto": "06-09-2026"
+    },
+    {
+      "user_id": "435346",
+      "server_name": "unknown",
+      "broker": "xm",
+      "name": "Rnnn",
+      "account_type": "demo",
+      "valid_upto": "07-09-2026"
     }
   ]
 }
