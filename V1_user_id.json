@@ -99,6 +99,14 @@
       "name": "drrr",
       "account_type": "real",
       "valid_upto": "12-09-2026"
+    },
+    {
+      "user_id": "900909544407",
+      "server_name": "unknown",
+      "broker": "stoxpips-trade",
+      "name": "sohel ansari",
+      "account_type": "demo",
+      "valid_upto": "13-09-2026"
     }
   ]
 }
