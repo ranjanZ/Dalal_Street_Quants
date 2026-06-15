@@ -77,6 +77,14 @@
       "name": "Ranjan Mondal",
       "account_type": "real",
       "valid_upto": "13-09-2026"
+    },
+    {
+      "user_id": "6564424",
+      "server_name": "unknown",
+      "broker": "xm",
+      "name": "Rahul Roy",
+      "account_type": "real",
+      "valid_upto": "13-09-2026"
     }
   ]
 }
