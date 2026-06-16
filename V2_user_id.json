@@ -85,6 +85,17 @@
       "name": "Nirmal Neeraf",
       "account_type": "real",
       "valid_upto": "13-09-2026"
+    },
+    {
+      "user_id": "101905951",
+      "server_name": "unknown",
+      "broker": "xm",
+      "name": "Nirmal Neeraf",
+      "account_type": "demo",
+      "valid_upto": "13-09-2026"
     }
+    
+
+    
   ]
 }
