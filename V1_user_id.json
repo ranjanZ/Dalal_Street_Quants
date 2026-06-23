@@ -107,6 +107,14 @@
       "name": "sohel ansari",
       "account_type": "demo",
       "valid_upto": "13-09-2026"
+    },
+    {
+      "user_id": "5085342",
+      "server_name": "unknown",
+      "broker": "blueberrymarketssvg-live",
+      "name": "sohel ansari",
+      "account_type": "real",
+      "valid_upto": "21-09-2026"
     }
   ]
 }
