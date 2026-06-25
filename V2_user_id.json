@@ -93,9 +93,14 @@
       "name": "Nirmal Neeraf",
       "account_type": "demo",
       "valid_upto": "13-09-2026"
+    },
+    {
+      "user_id": "25671597",
+      "server_name": "unknown",
+      "broker": "vantage",
+      "name": "Nirmal singh",
+      "account_type": "demo",
+      "valid_upto": "26-06-2026"
     }
-    
-
-    
   ]
 }
