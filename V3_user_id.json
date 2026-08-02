@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "user_id": "12345",
+      "server_name": "MetaQuotes-Demo",
+      "broker": "vantage",
+      "name": "abc",
+      "valid_upto": "30-04-2026"
+    },
+    {
+      "metatrader_id": "5345456",
+      "server_name": "unknown",
+      "broker": "xm",
+      "name": "fdsfsd",
+      "account_type": "real",
+      "Verified": "False",
+      "valid_upto": "03-08-2026"
+    },
+    {
+      "metatrader_id": "25823047",
+      "server_name": "unknown",
+      "broker": "vantage",
+      "name": "Ranjan",
+      "account_type": "demo",
+      "Verified": "True",
+      "valid_upto": "03-08-2026"
+    }
+  ]
+}

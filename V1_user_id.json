@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "user_id": "5049223304",
+      "server_name": "MetaQuotesDemo",
+      "broker": "MetaTrader",
+      "name": "Baji(BM)",
+      "valid_upto": "30-10-2026"
+    },
+    {
+      "user_id": "342172813",
+      "server_name": "unknown",
+      "broker": "xm",
+      "name": "GIRISH",
+      "valid_upto": "18-08-2026"
+    },
+    {
+      "user_id": "168761523",
+      "server_name": "unknown",
+      "broker": "demo-xm",
+      "name": "Girish",
+      "valid_upto": "18-08-2026"
+    },
+    {
+      "user_id": "168563743",
+      "server_name": "unknown",
+      "broker": "xm",
+      "name": "sohel",
+      "valid_upto": "29-08-2026"
+    },
+    {
+      "user_id": "900909532143",
+      "server_name": "unknown",
+      "broker": "stoxpips-trade",
+      "name": "sohel",
+      "valid_upto": "03-09-2026"
+    },
+    {
+      "user_id": "433725217",
+      "server_name": "unknown",
+      "broker": "exness",
+      "name": "nirmal Singh",
+      "valid_upto": "05-09-2026"
+    },
+    {
+      "user_id": "160048885",
+      "server_name": "unknown",
+      "broker": "exness",
+      "name": "nirmal singh",
+      "valid_upto": "06-09-2026"
+    },
+    {
+      "user_id": "900909619872",
+      "server_name": "unknown",
+      "broker": "agile global ltd.",
+      "name": "sohel",
+      "valid_upto": "06-09-2026"
+    },
+    {
+      "user_id": "900909537121",
+      "server_name": "unknown",
+      "broker": "stoxpips-trade",
+      "name": "sohel",
+      "valid_upto": "06-09-2026"
+    },
+    {
+      "user_id": "514327731",
+      "server_name": "unknown",
+      "broker": "goatfunded-server3",
+      "name": "sohel",
+      "valid_upto": "06-09-2026"
+    },
+    {
+      "user_id": "435346",
+      "server_name": "unknown",
+      "broker": "xm",
+      "name": "Rnnn",
+      "account_type": "demo",
+      "valid_upto": "07-09-2026"
+    },
+    {
+      "user_id": "900909544407",
+      "server_name": "unknown",
+      "broker": "stoxpips-trade",
+      "name": "sohel ansari",
+      "account_type": "demo",
+      "valid_upto": "13-09-2026"
+    },
+    {
+      "user_id": "5085342",
+      "server_name": "unknown",
+      "broker": "blueberrymarketssvg-live",
+      "name": "sohel ansari",
+      "account_type": "real",
+      "valid_upto": "21-09-2026"
+    },
+    {
+      "user_id": "161264905",
+      "server_name": "unknown",
+      "broker": "ascendsglobalmarkets-server",
+      "name": "sohel ansari",
+      "account_type": "real",
+      "valid_upto": "23-09-2026"
+    },
+    {
+      "metatrader_id": "239748235",
+      "server_name": "unknown",
+      "broker": "fg",
+      "name": "sdgfusdkfsdjfjsdbkjfs",
+      "account_type": "real",
+      "Verified": "True",
+      "valid_upto": "31-10-2026"
+    },
+    {
+      "metatrader_id": "25823047",
+      "server_name": "unknown",
+      "broker": "vantage",
+      "name": "Ranja",
+      "account_type": "demo",
+      "Verified": "True",
+      "valid_upto": "31-10-2026"
+    }
+  ]
+}
