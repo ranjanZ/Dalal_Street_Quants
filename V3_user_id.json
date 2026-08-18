@@ -42,6 +42,15 @@
       "account_type": "real",
       "Verified": "False",
       "valid_upto": "26-11-2026"
+    },
+    {
+      "metatrader_id": "184117938",
+      "server_name": "unknown",
+      "broker": "excness",
+      "name": "Risky Patel",
+      "account_type": "demo",
+      "Verified": "False",
+      "valid_upto": "26-11-2026"
     }
   ]
 }
