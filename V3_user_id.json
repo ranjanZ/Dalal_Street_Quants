@@ -33,7 +33,15 @@
       "account_type": "demo",
       "Verified": "True",
       "valid_upto": "03-08-2026"
+    },
+    {
+      "metatrader_id": "Your partner link",
+      "server_name": "unknown",
+      "broker": "xm",
+      "name": "Milankumar bhupatbhai chovatiya",
+      "account_type": "real",
+      "Verified": "False",
+      "valid_upto": "26-11-2026"
     }
-    
   ]
 }
