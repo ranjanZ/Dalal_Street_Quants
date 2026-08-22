@@ -16,6 +16,15 @@
       "account_type": "demo",
       "Verified": "True",
       "valid_upto": "11-11-2026"
+    },
+    {
+      "metatrader_id": "5054827635",
+      "server_name": "unknown",
+      "broker": "vantage",
+      "name": "Praveen",
+      "account_type": "real",
+      "Verified": "True",
+      "valid_upto": "30-11-2026"
     }
   ]
 }
