@@ -60,6 +60,15 @@
       "account_type": "real",
       "Verified": "False",
       "valid_upto": "01-12-2026"
+    },
+    {
+      "metatrader_id": "25978819",
+      "server_name": "unknown",
+      "broker": "vantage",
+      "name": "Sangita",
+      "account_type": "demo",
+      "Verified": "False",
+      "valid_upto": "01-12-2026"
     }
   ]
 }
