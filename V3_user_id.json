@@ -51,6 +51,15 @@
       "account_type": "demo",
       "Verified": "True",
       "valid_upto": "28-11-2026"
+    },
+    {
+      "metatrader_id": "110605893",
+      "server_name": "unknown",
+      "broker": "xm",
+      "name": "Kai",
+      "account_type": "real",
+      "Verified": "False",
+      "valid_upto": "01-12-2026"
     }
   ]
 }
