@@ -69,6 +69,15 @@
       "account_type": "demo",
       "Verified": "True",
       "valid_upto": "01-12-2026"
+    },
+    {
+      "metatrader_id": "53577",
+      "server_name": "unknown",
+      "broker": "foreign_broker",
+      "name": "IRan_friend",
+      "account_type": "real",
+      "Verified": "False",
+      "valid_upto": "05-12-2026"
     }
   ]
 }
