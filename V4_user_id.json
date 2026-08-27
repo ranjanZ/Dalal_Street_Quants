@@ -25,6 +25,15 @@
       "account_type": "demo",
       "Verified": "True",
       "valid_upto": "27-11-2026"
+    },
+    {
+      "metatrader_id": "362247594",
+      "server_name": "unknown",
+      "broker": "xm",
+      "name": "Puri Jagannath Dham",
+      "account_type": "real",
+      "Verified": "False",
+      "valid_upto": "05-12-2026"
     }
   ]
 }
