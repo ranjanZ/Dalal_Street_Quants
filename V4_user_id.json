@@ -34,6 +34,15 @@
       "account_type": "real",
       "Verified": "True",
       "valid_upto": "05-12-2026"
+    },
+    {
+      "metatrader_id": "2653462",
+      "server_name": "unknown",
+      "broker": "vantage",
+      "name": "Ranjan",
+      "account_type": "real",
+      "Verified": "False",
+      "valid_upto": "06-12-2026"
     }
   ]
 }
