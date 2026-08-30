@@ -87,6 +87,15 @@
       "account_type": "demo",
       "Verified": "False",
       "valid_upto": "07-12-2026"
+    },
+    {
+      "metatrader_id": "474497607",
+      "server_name": "unknown",
+      "broker": "exness",
+      "name": "Targhount jad",
+      "account_type": "demo",
+      "Verified": "False",
+      "valid_upto": "08-12-2026"
     }
   ]
 }
