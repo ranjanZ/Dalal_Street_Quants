@@ -105,6 +105,15 @@
       "account_type": "demo",
       "Verified": "False",
       "valid_upto": "09-12-2026"
+    },
+    {
+      "metatrader_id": "472586158",
+      "server_name": "unknown",
+      "broker": "exness",
+      "name": "Mustapha targhount",
+      "account_type": "demo",
+      "Verified": "False",
+      "valid_upto": "09-12-2026"
     }
   ]
 }
