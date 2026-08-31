@@ -96,6 +96,15 @@
       "account_type": "demo",
       "Verified": "True",
       "valid_upto": "08-12-2026"
+    },
+    {
+      "metatrader_id": "25823047",
+      "server_name": "unknown",
+      "broker": "sdf",
+      "name": "afs",
+      "account_type": "demo",
+      "Verified": "False",
+      "valid_upto": "09-12-2026"
     }
   ]
 }
