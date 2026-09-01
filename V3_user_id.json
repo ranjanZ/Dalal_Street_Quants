@@ -114,6 +114,15 @@
       "account_type": "demo",
       "Verified": "False",
       "valid_upto": "09-12-2026"
+    },
+    {
+      "metatrader_id": "198981926",
+      "server_name": "unknown",
+      "broker": "exness",
+      "name": "Faizal ahamed",
+      "account_type": "demo",
+      "Verified": "False",
+      "valid_upto": "10-12-2026"
     }
   ]
 }
