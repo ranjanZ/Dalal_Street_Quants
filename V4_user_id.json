@@ -69,8 +69,8 @@
       "broker": "roboforex",
       "name": "Jagannath_roboforex",
       "account_type": "real",
-      "Verified": "False",
-      "valid_upto": "10-12-2026"
+      "Verified": "True",
+      "valid_upto": "10-12-2026"2
     }
   ]
 }
