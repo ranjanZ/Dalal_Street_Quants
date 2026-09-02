@@ -128,6 +128,15 @@
       "account_type": "demo",
       "Verified": "True",
       "valid_upto": "18-11-2026"
+    },
+    {
+      "metatrader_id": "112025091",
+      "server_name": "unknown",
+      "broker": "metaquotes-demo",
+      "name": "jose prueba",
+      "account_type": "demo",
+      "Verified": "True",
+      "valid_upto": "01-12-2026"
     }
   ]
 }
