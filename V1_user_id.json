@@ -137,6 +137,15 @@
       "account_type": "demo",
       "Verified": "True",
       "valid_upto": "01-12-2026"
+    },
+    {
+      "metatrader_id": "474415693",
+      "server_name": "unknown",
+      "broker": "exness",
+      "name": "Mustapha",
+      "account_type": "demo",
+      "Verified": "True",
+      "valid_upto": "02-12-2026"
     }
   ]
 }
