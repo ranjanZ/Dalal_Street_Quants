@@ -34,6 +34,15 @@
       "account_type": "demo",
       "Verified": "True",
       "valid_upto": "01-12-2026"
+    },
+    {
+      "metatrader_id": "474493393",
+      "server_name": "unknown",
+      "broker": "exness",
+      "name": "Usama Rajput",
+      "account_type": "demo",
+      "Verified": "True",
+      "valid_upto": "12-12-2026"
     }
   ]
 }
