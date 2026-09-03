@@ -64,6 +64,15 @@
       "valid_upto": "04-09-2026"
     },
     {
+      "metatrader_id": "110620306",
+      "server_name": "unknown",
+      "broker": "XM",
+      "name": "dang dang Vietnam",
+      "account_type": "real std",
+      "Verified": "True",
+      "valid_upto": "04-09-2026"
+    },
+    {
       "metatrader_id": "37401112",
       "server_name": "unknown",
       "broker": "roboforex",
