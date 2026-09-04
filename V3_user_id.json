@@ -132,6 +132,15 @@
       "account_type": "demo",
       "Verified": "False",
       "valid_upto": "12-12-2026"
+    },
+    {
+      "metatrader_id": "test123456",
+      "server_name": "unknown",
+      "broker": "xm",
+      "name": "Test User",
+      "account_type": "demo",
+      "Verified": "False",
+      "valid_upto": "13-12-2026"
     }
   ]
 }
