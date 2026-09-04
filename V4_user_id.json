@@ -80,6 +80,15 @@
       "account_type": "real",
       "Verified": "True",
       "valid_upto": "10-12-2026"
+    },
+    {
+      "metatrader_id": null,
+      "server_name": "unknown",
+      "broker": "exness",
+      "name": "xxxxxxxxxxxxxxxxxxxxxx",
+      "account_type": "cent",
+      "Verified": "False",
+      "valid_upto": "13-12-2026"
     }
   ]
 }
