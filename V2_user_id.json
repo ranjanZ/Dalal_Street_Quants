@@ -43,6 +43,15 @@
       "account_type": "demo",
       "Verified": "True",
       "valid_upto": "12-12-2026"
+    },
+    {
+      "metatrader_id": null,
+      "server_name": "unknown",
+      "broker": "vantage",
+      "name": "test",
+      "account_type": "cent",
+      "Verified": "False",
+      "valid_upto": "13-12-2026"
     }
   ]
 }
