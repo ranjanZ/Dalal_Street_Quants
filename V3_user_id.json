@@ -141,6 +141,15 @@
       "account_type": "demo",
       "Verified": "False",
       "valid_upto": "13-12-2026"
+    },
+    {
+      "metatrader_id": "2143566",
+      "server_name": "unknown",
+      "broker": "delete",
+      "name": "test",
+      "account_type": "real",
+      "Verified": "False",
+      "valid_upto": "13-12-2026"
     }
   ]
 }
