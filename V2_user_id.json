@@ -70,6 +70,15 @@
       "account_type": "micro",
       "Verified": "False",
       "valid_upto": "17-12-2026"
+    },
+    {
+      "metatrader_id": "23423532535",
+      "server_name": "unknown",
+      "broker": "vantage",
+      "name": "245466",
+      "account_type": "micro",
+      "Verified": "False",
+      "valid_upto": "17-12-2026"
     }
   ]
 }
