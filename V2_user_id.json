@@ -52,6 +52,15 @@
       "account_type": "cent",
       "Verified": "False",
       "valid_upto": "13-12-2026"
+    },
+    {
+      "metatrader_id": "54645",
+      "server_name": "unknown",
+      "broker": "roboforex",
+      "name": "Ranjan Mondal",
+      "account_type": "standard",
+      "Verified": "False",
+      "valid_upto": "17-12-2026"
     }
   ]
 }
