@@ -91,6 +91,18 @@
       "application_date": "08-09-2026",
       "account_mode": "real",
       "partner_code": "yes"
+    },
+    {
+      "metatrader_id": "401488202",
+      "server_name": "unknown",
+      "broker": "xm",
+      "name": "Narayan shetty",
+      "account_type": "micro",
+      "Verified": "True",
+      "valid_upto": "17-12-2026",
+      "application_date": "08-09-2026",
+      "account_mode": "real",
+      "partner_code": "yes"
     }
   ]
 }
