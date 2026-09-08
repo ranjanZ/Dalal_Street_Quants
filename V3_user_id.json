@@ -168,6 +168,15 @@
       "account_type": "real",
       "Verified": "False",
       "valid_upto": "13-12-2026"
+    },
+    {
+      "metatrader_id": "23423532535",
+      "server_name": "unknown",
+      "broker": "exness",
+      "name": "abc",
+      "account_type": "micro",
+      "Verified": "False",
+      "valid_upto": "17-12-2026"
     }
   ]
 }
