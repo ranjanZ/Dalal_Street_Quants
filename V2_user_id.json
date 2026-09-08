@@ -79,6 +79,18 @@
       "account_type": "micro",
       "Verified": "False",
       "valid_upto": "17-12-2026"
+    },
+    {
+      "metatrader_id": "2342353253",
+      "server_name": "unknown",
+      "broker": "roboforex",
+      "name": "gbd",
+      "account_type": "cent",
+      "Verified": "True",
+      "valid_upto": "17-12-2026",
+      "application_date": "08-09-2026",
+      "account_mode": "real",
+      "partner_code": "yes"
     }
   ]
 }
