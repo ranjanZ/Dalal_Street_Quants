@@ -82,21 +82,12 @@
       "valid_upto": "10-12-2026"
     },
     {
-      "metatrader_id": null,
-      "server_name": "unknown",
-      "broker": "exness",
-      "name": "xxxxxxxxxxxxxxxxxxxxxx",
-      "account_type": "cent",
-      "Verified": "False",
-      "valid_upto": "13-12-2026"
-    },
-    {
       "metatrader_id": "401488202",
       "server_name": "unknown",
       "broker": "xm",
       "name": "Narayan shetty",
       "account_type": "micro",
-      "Verified": "False",
+      "Verified": "True",
       "valid_upto": "18-12-2026",
       "application_date": "09-09-2026",
       "account_mode": "real",
