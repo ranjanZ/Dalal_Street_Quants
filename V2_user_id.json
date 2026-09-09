@@ -115,6 +115,18 @@
       "application_date": "09-09-2026",
       "account_mode": "real",
       "partner_code": "yes"
+    },
+    {
+      "metatrader_id": "nlkn",
+      "server_name": "unknown",
+      "broker": "roboforex",
+      "name": "nll",
+      "account_type": "cent",
+      "Verified": "True",
+      "valid_upto": "18-12-2026",
+      "application_date": "09-09-2026",
+      "account_mode": "real",
+      "partner_code": "yes"
     }
   ]
 }
