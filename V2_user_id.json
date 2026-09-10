@@ -94,6 +94,18 @@
       "application_date": "08-09-2026",
       "account_mode": "real",
       "partner_code": "yes"
+    },
+    {
+      "metatrader_id": "25739797",
+      "server_name": "unknown",
+      "broker": "vantage",
+      "name": "Renukaiah",
+      "account_type": "standard",
+      "Verified": "True",
+      "valid_upto": "19-12-2026",
+      "application_date": "10-09-2026",
+      "account_mode": "demo",
+      "partner_code": "no"
     }
   ]
 }
