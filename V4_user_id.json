@@ -95,6 +95,18 @@
       "application_date": "11-09-2026",
       "account_mode": "real",
       "partner_code": "yes"
+    },
+    {
+      "metatrader_id": "25823047",
+      "server_name": "unknown",
+      "broker": "vantage",
+      "name": "Ranjan",
+      "account_type": "cent",
+      "Verified": "False",
+      "valid_upto": "22-12-2026",
+      "application_date": "13-09-2026",
+      "account_mode": "real",
+      "partner_code": "yes"
     }
   ]
 }
