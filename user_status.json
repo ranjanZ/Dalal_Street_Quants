@@ -1,7 +1,7 @@
 {
   "reports": {
     "25823047": {
-      "eventTag": "EA_REMOVED",
+      "eventTag": "EA_ATTACHED",
       "bot_version": "1.0",
       "login": "25823047",
       "accName": "RANJAN MONDAL",
@@ -372,9 +372,13 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-16 23:25:13"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-16 23:25:28"
         }
       ],
-      "last_updated": "2026-09-16 23:25:13"
+      "last_updated": "2026-09-16 23:25:28"
     },
     "21345": {
       "accName": "fdg",
