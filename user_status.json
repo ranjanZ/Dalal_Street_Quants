@@ -1,7 +1,7 @@
 {
   "reports": {
     "25823047": {
-      "eventTag": "EA_ATTACHED",
+      "eventTag": "TIMER_REPORT",
       "bot_version": "1.0",
       "login": "25823047",
       "accName": "RANJAN MONDAL",
@@ -36,9 +36,13 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-16 22:21:28"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-16 22:22:32"
         }
       ],
-      "last_updated": "2026-09-16 22:21:28"
+      "last_updated": "2026-09-16 22:22:32"
     }
   }
 }
