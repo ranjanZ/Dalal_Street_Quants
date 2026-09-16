@@ -1,34 +1,3 @@
 {
-  "licenses": [
-    {
-      "Bot Version": "all",
-      "Login": "67657567",
-      "Name": "rabhgh  ddg",
-      "Broker": "fdgdfg",
-      "Type": "real",
-      "verified": true,
-      "Licence_created_on": "2026-09-16 14:29:58",
-      "Valid upto": "2026-10-16 14:29:58"
-    },
-    {
-      "Bot Version": "45",
-      "Login": "21345",
-      "Name": "fdg",
-      "Broker": "XM",
-      "Type": "REAL",
-      "verified": false,
-      "Licence_created_on": "2026-09-16 22:37:23",
-      "Valid upto": "2026-10-16 22:37:23"
-    },
-    {
-      "Bot Version": "1.0",
-      "Login": "25823047",
-      "Name": "RANJAN MONDAL",
-      "Broker": "Vantage Markets (Pty) Ltd",
-      "Type": "DEMO",
-      "verified": false,
-      "Licence_created_on": "2026-09-16 22:37:47",
-      "Valid upto": "2026-10-16 22:37:47"
-    }
-  ]
+
 }
