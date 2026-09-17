@@ -26,6 +26,29 @@
       ],
       "created_at": "2026-09-17 15:41:31",
       "last_updated": "2026-09-17 15:41:46"
+    },
+    "22361861": {
+      "accName": "RANJAN MONDAL",
+      "company": "Vantage Markets (Pty) Ltd",
+      "server": "VantageMarkets-Live 11",
+      "currency": "USC",
+      "accType": "REAL",
+      "leverage": 2000,
+      "balance": 0.45,
+      "equity": 0.45,
+      "margin": 0.0,
+      "freeMargin": 0.45,
+      "bot_version": "1.0",
+      "build": "6182",
+      "eventTag": "EA_REMOVED",
+      "profit_list": [
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-17 17:39:02"
+        }
+      ],
+      "created_at": "2026-09-17 17:39:02",
+      "last_updated": "2026-09-17 17:39:02"
     }
   }
 }
