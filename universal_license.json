@@ -1,2 +1,14 @@
 {
+  "licenses": [
+    {
+      "Bot Version": "1.0",
+      "Login": "25823047",
+      "Name": "Tester",
+      "Broker": "Vantage Markets (Pty) Ltd",
+      "Type": "DEMO",
+      "verified": false,
+      "Licence_created_on": "2026-09-17 13:29:23",
+      "Valid upto": "2026-10-17 13:29:23"
+    }
+  ]
 }
