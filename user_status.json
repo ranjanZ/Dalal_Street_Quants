@@ -13,7 +13,7 @@
       "freeMargin": 18957.98,
       "bot_version": "1.0",
       "build": "6182",
-      "eventTag": "EA_ATTACHED",
+      "eventTag": "TIMER_REPORT",
       "profit_list": [
         {
           "value": 0.0,
@@ -38,10 +38,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-17 13:30:12"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-17 13:32:13"
         }
       ],
       "created_at": "2026-09-17 13:29:20",
-      "last_updated": "2026-09-17 13:30:12"
+      "last_updated": "2026-09-17 13:32:13"
     }
   }
 }
