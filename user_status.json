@@ -862,12 +862,12 @@
       "accType": "DEMO",
       "leverage": 100,
       "balance": 11630.0,
-      "equity": 11638.55,
+      "equity": 11632.79,
       "margin": 131.81,
-      "freeMargin": 11506.74,
+      "freeMargin": 11500.98,
       "bot_version": "1.0",
       "build": "6182",
-      "eventTag": "EA_REMOVED",
+      "eventTag": "EA_ATTACHED",
       "profit_list": [
         {
           "value": 0.0,
@@ -1348,10 +1348,14 @@
         {
           "value": 8.55,
           "timestamp": "2026-09-18 23:41:38"
+        },
+        {
+          "value": 2.79,
+          "timestamp": "2026-09-18 23:45:11"
         }
       ],
       "created_at": "2026-09-18 20:57:14",
-      "last_updated": "2026-09-18 23:41:38"
+      "last_updated": "2026-09-18 23:45:11"
     }
   }
 }
