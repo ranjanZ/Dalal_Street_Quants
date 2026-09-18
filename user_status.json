@@ -8,9 +8,9 @@
       "accType": "DEMO",
       "leverage": 500,
       "balance": 16807.81,
-      "equity": 16800.12,
+      "equity": 16799.9,
       "margin": 26.33,
-      "freeMargin": 16773.79,
+      "freeMargin": 16773.57,
       "bot_version": "1.0",
       "build": "6182",
       "eventTag": "EA_ATTACHED",
@@ -468,12 +468,12 @@
           "timestamp": "2026-09-18 14:10:20"
         },
         {
-          "value": -7.69,
-          "timestamp": "2026-09-18 14:10:24"
+          "value": -7.91,
+          "timestamp": "2026-09-18 14:10:26"
         }
       ],
       "created_at": "2026-09-17 15:41:31",
-      "last_updated": "2026-09-18 14:10:24"
+      "last_updated": "2026-09-18 14:10:26"
     },
     "22361861": {
       "accName": "RANJAN MONDAL",
