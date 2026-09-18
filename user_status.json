@@ -861,10 +861,10 @@
       "currency": "USD",
       "accType": "DEMO",
       "leverage": 100,
-      "balance": 11450.72,
-      "equity": 11321.52,
-      "margin": 6534.26,
-      "freeMargin": 4787.26,
+      "balance": 11666.72,
+      "equity": 11663.22,
+      "margin": 435.78,
+      "freeMargin": 11227.44,
       "bot_version": "1.0",
       "build": "6182",
       "eventTag": "TIMER_REPORT",
@@ -920,10 +920,14 @@
         {
           "value": -129.2,
           "timestamp": "2026-09-18 21:15:06"
+        },
+        {
+          "value": -3.5,
+          "timestamp": "2026-09-18 21:17:06"
         }
       ],
       "created_at": "2026-09-18 20:57:14",
-      "last_updated": "2026-09-18 21:15:06"
+      "last_updated": "2026-09-18 21:17:06"
     }
   }
 }
