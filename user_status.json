@@ -853,6 +853,29 @@
       ],
       "created_at": "2026-09-17 17:39:02",
       "last_updated": "2026-09-17 18:02:02"
+    },
+    "300597": {
+      "accName": "Hadi",
+      "company": "Roco Broker Ltd",
+      "server": "RocoBroker-Ltd",
+      "currency": "USD",
+      "accType": "DEMO",
+      "leverage": 100,
+      "balance": 11596.04,
+      "equity": 11596.04,
+      "margin": 0.0,
+      "freeMargin": 11596.04,
+      "bot_version": "1.0",
+      "build": "6182",
+      "eventTag": "EA_ATTACHED",
+      "profit_list": [
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-18 20:57:14"
+        }
+      ],
+      "created_at": "2026-09-18 20:57:14",
+      "last_updated": "2026-09-18 20:57:14"
     }
   }
 }
