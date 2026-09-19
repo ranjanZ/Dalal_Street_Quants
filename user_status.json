@@ -1,19 +1,19 @@
 {
   "reports": {
     "25823047": {
-      "accName": "RANJAN MONDAL",
+      "accName": "Tester",
       "company": "Vantage Markets (Pty) Ltd",
       "server": "VantageMarkets-Demo",
       "currency": "USD",
       "accType": "DEMO",
-      "leverage": 500,
-      "balance": 16792.77,
-      "equity": 16792.77,
+      "leverage": 1000,
+      "balance": 10000.0,
+      "equity": 10000.0,
       "margin": 0.0,
-      "freeMargin": 16792.77,
+      "freeMargin": 10000.0,
       "bot_version": "5.0",
       "build": "6182",
-      "eventTag": "TIMER_REPORT",
+      "eventTag": "EA_REMOVED",
       "profit_list": [
         {
           "value": 0.0,
@@ -910,10 +910,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-20 00:19:26"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-20 00:19:59"
         }
       ],
       "created_at": "2026-09-17 15:41:31",
-      "last_updated": "2026-09-20 00:19:26"
+      "last_updated": "2026-09-20 00:19:59"
     },
     "22361861": {
       "accName": "RANJAN MONDAL",
