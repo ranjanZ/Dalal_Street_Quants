@@ -106,6 +106,18 @@
       "application_date": "10-09-2026",
       "account_mode": "demo",
       "partner_code": "no"
+    },
+    {
+      "metatrader_id": "169396235",
+      "server_name": "unknown",
+      "broker": "xm",
+      "name": "Naveed Raza",
+      "account_type": "micro",
+      "Verified": "True",
+      "valid_upto": "28-12-2026",
+      "application_date": "19-09-2026",
+      "account_mode": "real",
+      "partner_code": "yes"
     }
   ]
 }
