@@ -13,7 +13,7 @@
       "freeMargin": 16792.77,
       "bot_version": "5.0",
       "build": "6182",
-      "eventTag": "TIMER_REPORT",
+      "eventTag": "EA_REMOVED",
       "profit_list": [
         {
           "value": 0.0,
@@ -850,10 +850,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-19 23:57:20"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-19 23:57:28"
         }
       ],
       "created_at": "2026-09-17 15:41:31",
-      "last_updated": "2026-09-19 23:57:20"
+      "last_updated": "2026-09-19 23:57:28"
     },
     "22361861": {
       "accName": "RANJAN MONDAL",
