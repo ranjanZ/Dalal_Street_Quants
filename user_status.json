@@ -861,10 +861,10 @@
       "currency": "USD",
       "accType": "DEMO",
       "leverage": 100,
-      "balance": 11616.6,
-      "equity": 11607.69,
-      "margin": 283.93,
-      "freeMargin": 11323.76,
+      "balance": 11596.53,
+      "equity": 11596.53,
+      "margin": 0.0,
+      "freeMargin": 11596.53,
       "bot_version": "1.0",
       "build": "6182",
       "eventTag": "EA_REMOVED",
@@ -1388,10 +1388,14 @@
         {
           "value": -8.91,
           "timestamp": "2026-09-19 09:51:21"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-19 09:53:40"
         }
       ],
       "created_at": "2026-09-18 20:57:14",
-      "last_updated": "2026-09-19 09:51:21"
+      "last_updated": "2026-09-19 09:53:40"
     }
   }
 }
