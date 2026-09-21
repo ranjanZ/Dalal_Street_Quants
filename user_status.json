@@ -9853,7 +9853,7 @@
       "freeMargin": 8977.62,
       "bot_version": "5.0",
       "build": "6204",
-      "eventTag": "EA_REMOVED",
+      "eventTag": "TIMER_REPORT",
       "profit_list": [
         {
           "value": 0.0,
@@ -12570,10 +12570,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-21 19:56:28"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-21 19:57:47"
         }
       ],
       "created_at": "2026-09-20 13:22:42",
-      "last_updated": "2026-09-21 19:56:28"
+      "last_updated": "2026-09-21 19:57:47"
     }
   }
 }
