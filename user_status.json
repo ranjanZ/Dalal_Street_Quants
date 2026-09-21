@@ -8,9 +8,9 @@
       "accType": "DEMO",
       "leverage": 500,
       "balance": 18167.09,
-      "equity": 18137.89,
+      "equity": 18110.89,
       "margin": 260.47,
-      "freeMargin": 17877.42,
+      "freeMargin": 17850.42,
       "bot_version": "5.0",
       "build": "6182",
       "eventTag": "TIMER_REPORT",
@@ -3298,10 +3298,14 @@
         {
           "value": -29.2,
           "timestamp": "2026-09-21 23:02:25"
+        },
+        {
+          "value": -56.2,
+          "timestamp": "2026-09-21 23:04:24"
         }
       ],
       "created_at": "2026-09-17 15:41:31",
-      "last_updated": "2026-09-21 23:02:25"
+      "last_updated": "2026-09-21 23:04:24"
     },
     "22361861": {
       "accName": "RANJAN MONDAL",
@@ -5325,9 +5329,9 @@
       "accType": "DEMO",
       "leverage": 500,
       "balance": 4798.84,
-      "equity": 4719.36,
+      "equity": 4719.35,
       "margin": 0.0,
-      "freeMargin": 4719.36,
+      "freeMargin": 4719.35,
       "bot_version": "5.0",
       "build": "6182",
       "eventTag": "TIMER_REPORT",
@@ -10535,14 +10539,10 @@
         {
           "value": -79.49,
           "timestamp": "2026-09-21 23:02:20"
-        },
-        {
-          "value": -79.48,
-          "timestamp": "2026-09-21 23:04:21"
         }
       ],
       "created_at": "2026-09-20 01:31:43",
-      "last_updated": "2026-09-21 23:04:21"
+      "last_updated": "2026-09-21 23:02:20"
     },
     "169396235": {
       "accName": "Demo Account",
