@@ -5421,9 +5421,9 @@
       "accType": "DEMO",
       "leverage": 500,
       "balance": 2577.16,
-      "equity": 2147.18,
+      "equity": 2256.11,
       "margin": 3834.59,
-      "freeMargin": -1687.41,
+      "freeMargin": -1578.48,
       "bot_version": "5.0",
       "build": "6182",
       "eventTag": "TIMER_REPORT",
@@ -10679,10 +10679,14 @@
         {
           "value": -429.98,
           "timestamp": "2026-09-22 00:12:26"
+        },
+        {
+          "value": -321.05,
+          "timestamp": "2026-09-22 00:14:26"
         }
       ],
       "created_at": "2026-09-20 01:31:43",
-      "last_updated": "2026-09-22 00:12:26"
+      "last_updated": "2026-09-22 00:14:26"
     },
     "169396235": {
       "accName": "Demo Account",
