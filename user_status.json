@@ -8872,9 +8872,9 @@
       "accType": "DEMO",
       "leverage": 1000,
       "balance": 9104.58,
-      "equity": 8960.57,
+      "equity": 8960.88,
       "margin": 0.0,
-      "freeMargin": 8960.57,
+      "freeMargin": 8960.88,
       "bot_version": "5.0",
       "build": "6204",
       "eventTag": "TIMER_REPORT",
@@ -10690,10 +10690,14 @@
         {
           "value": -144.01,
           "timestamp": "2026-09-21 11:50:12"
+        },
+        {
+          "value": -143.7,
+          "timestamp": "2026-09-21 11:52:13"
         }
       ],
       "created_at": "2026-09-20 13:22:42",
-      "last_updated": "2026-09-21 11:50:12"
+      "last_updated": "2026-09-21 11:52:13"
     }
   }
 }
