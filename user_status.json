@@ -13616,7 +13616,7 @@
       "freeMargin": 9723.47,
       "bot_version": "5.0",
       "build": "6182",
-      "eventTag": "EA_REMOVED",
+      "eventTag": "EA_ATTACHED",
       "profit_list": [
         {
           "value": 0.0,
@@ -13629,10 +13629,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-21 23:00:45"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-21 23:01:12"
         }
       ],
       "created_at": "2026-09-21 22:59:20",
-      "last_updated": "2026-09-21 23:00:45"
+      "last_updated": "2026-09-21 23:01:12"
     }
   }
 }
