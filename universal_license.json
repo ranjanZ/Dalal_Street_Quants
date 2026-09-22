@@ -69,6 +69,16 @@
       "verified": true,
       "Licence_created_on": "2026-09-22 14:26:24",
       "Valid upto": "2026-10-22 14:26:24"
+    },
+    {
+      "Bot Version": "5.0",
+      "Login": "52012495",
+      "Name": "Biswajit Mallik",
+      "Broker": "RoboForex Ltd",
+      "Type": "REAL",
+      "verified": false,
+      "Licence_created_on": "2026-09-22 14:35:57",
+      "Valid upto": "2026-10-22 14:35:57"
     }
   ]
 }
