@@ -15628,6 +15628,29 @@
       ],
       "created_at": "2026-09-22 14:26:20",
       "last_updated": "2026-09-22 14:31:28"
+    },
+    "52012495": {
+      "accName": "Biswajit Mallik",
+      "company": "RoboForex Ltd",
+      "server": "RoboForex-Pro",
+      "currency": "USD",
+      "accType": "REAL",
+      "leverage": 1000,
+      "balance": 0.0,
+      "equity": 0.0,
+      "margin": 0.0,
+      "freeMargin": 0.0,
+      "bot_version": "5.0",
+      "build": "6202",
+      "eventTag": "EA_ATTACHED",
+      "profit_list": [
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-22 14:35:53"
+        }
+      ],
+      "created_at": "2026-09-22 14:35:53",
+      "last_updated": "2026-09-22 14:35:53"
     }
   }
 }
