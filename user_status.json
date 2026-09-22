@@ -12505,7 +12505,7 @@
       "freeMargin": 10954.32,
       "bot_version": "5.0",
       "build": "6204",
-      "eventTag": "TIMER_REPORT",
+      "eventTag": "EA_REMOVED",
       "profit_list": [
         {
           "value": 0.0,
@@ -17178,10 +17178,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-23 00:46:03"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-23 00:46:09"
         }
       ],
       "created_at": "2026-09-20 13:22:42",
-      "last_updated": "2026-09-23 00:46:03"
+      "last_updated": "2026-09-23 00:46:09"
     },
     "198981926": {
       "accName": "Standard",
@@ -18079,14 +18083,10 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-23 00:44:08"
-        },
-        {
-          "value": 0.0,
-          "timestamp": "2026-09-23 00:46:08"
         }
       ],
       "created_at": "2026-09-22 14:35:53",
-      "last_updated": "2026-09-23 00:46:08"
+      "last_updated": "2026-09-23 00:44:08"
     }
   }
 }
