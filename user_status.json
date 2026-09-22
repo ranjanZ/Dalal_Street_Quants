@@ -16140,13 +16140,13 @@
       "currency": "USD",
       "accType": "REAL",
       "leverage": 1000,
-      "balance": 0.0,
-      "equity": 0.0,
+      "balance": 10412.94,
+      "equity": 10412.94,
       "margin": 0.0,
-      "freeMargin": 0.0,
+      "freeMargin": 10412.94,
       "bot_version": "5.0",
       "build": "6202",
-      "eventTag": "EA_REMOVED",
+      "eventTag": "EA_ATTACHED",
       "profit_list": [
         {
           "value": 0.0,
@@ -16171,10 +16171,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-22 14:50:12"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-22 17:05:51"
         }
       ],
       "created_at": "2026-09-22 14:35:53",
-      "last_updated": "2026-09-22 14:50:12"
+      "last_updated": "2026-09-22 17:05:51"
     }
   }
 }
