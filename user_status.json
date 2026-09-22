@@ -8,9 +8,9 @@
       "accType": "DEMO",
       "leverage": 500,
       "balance": 18358.89,
-      "equity": 17911.35,
+      "equity": 17873.85,
       "margin": 1303.67,
-      "freeMargin": 16607.68,
+      "freeMargin": 16570.18,
       "bot_version": "5.0",
       "build": "6182",
       "eventTag": "TIMER_REPORT",
@@ -3418,10 +3418,14 @@
         {
           "value": -447.54,
           "timestamp": "2026-09-22 09:21:13"
+        },
+        {
+          "value": -485.04,
+          "timestamp": "2026-09-22 09:23:13"
         }
       ],
       "created_at": "2026-09-17 15:41:31",
-      "last_updated": "2026-09-22 09:21:13"
+      "last_updated": "2026-09-22 09:23:13"
     },
     "22361861": {
       "accName": "RANJAN MONDAL",
