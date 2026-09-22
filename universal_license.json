@@ -49,6 +49,16 @@
       "verified": true,
       "Licence_created_on": "2026-09-21 22:59:24",
       "Valid upto": "2026-10-21 22:59:24"
+    },
+    {
+      "Bot Version": "5.0",
+      "Login": "169396235",
+      "Name": "Demo Account",
+      "Broker": "XM Global Limited",
+      "Type": "DEMO",
+      "verified": false,
+      "Licence_created_on": "2026-09-22 10:56:51",
+      "Valid upto": "2026-10-22 10:56:51"
     }
   ]
 }
