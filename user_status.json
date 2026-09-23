@@ -20675,6 +20675,29 @@
       ],
       "created_at": "2026-09-22 14:35:53",
       "last_updated": "2026-09-23 12:02:49"
+    },
+    "700155327": {
+      "accName": "JAYDIP KANABHAI SINHAR",
+      "company": "PU Prime Ltd",
+      "server": "PUPrime-Demo",
+      "currency": "USD",
+      "accType": "DEMO",
+      "leverage": 500,
+      "balance": 4580.2,
+      "equity": 4580.2,
+      "margin": 0.0,
+      "freeMargin": 4580.2,
+      "bot_version": "5.0",
+      "build": "6182",
+      "eventTag": "EA_ATTACHED",
+      "profit_list": [
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-23 12:03:25"
+        }
+      ],
+      "created_at": "2026-09-23 12:03:25",
+      "last_updated": "2026-09-23 12:03:25"
     }
   }
 }
