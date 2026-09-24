@@ -20430,7 +20430,7 @@
       "freeMargin": 10860.05,
       "bot_version": "5.0",
       "build": "6202",
-      "eventTag": "TIMER_REPORT",
+      "eventTag": "EA_REMOVED",
       "profit_list": [
         {
           "value": 0.0,
@@ -23327,10 +23327,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-24 15:57:05"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-24 15:57:49"
         }
       ],
       "created_at": "2026-09-22 14:35:53",
-      "last_updated": "2026-09-24 15:57:05"
+      "last_updated": "2026-09-24 15:57:49"
     },
     "700155327": {
       "accName": "JAYDIP KANABHAI SINHAR",
