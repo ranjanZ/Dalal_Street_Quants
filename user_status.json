@@ -19286,13 +19286,13 @@
       "currency": "USD",
       "accType": "DEMO",
       "leverage": 200,
-      "balance": 9721.92,
-      "equity": 9721.92,
+      "balance": 9880.8,
+      "equity": 9880.8,
       "margin": 0.0,
-      "freeMargin": 9721.92,
+      "freeMargin": 9880.8,
       "bot_version": "5.0",
       "build": "6182",
-      "eventTag": "TIMER_REPORT",
+      "eventTag": "EA_ATTACHED",
       "profit_list": [
         {
           "value": 0.0,
@@ -19441,10 +19441,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-22 13:47:24"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-24 13:24:39"
         }
       ],
       "created_at": "2026-09-21 22:59:20",
-      "last_updated": "2026-09-22 13:47:24"
+      "last_updated": "2026-09-24 13:24:39"
     },
     "37401112": {
       "accName": "PRAGATI PARIDA",
