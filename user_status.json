@@ -13,7 +13,7 @@
       "freeMargin": 4089.92,
       "bot_version": "5.0",
       "build": "6182",
-      "eventTag": "EA_REMOVED",
+      "eventTag": "TIMER_REPORT",
       "profit_list": [
         {
           "value": 0.0,
@@ -4562,14 +4562,10 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-24 23:30:19"
-        },
-        {
-          "value": 0.0,
-          "timestamp": "2026-09-24 23:31:42"
         }
       ],
       "created_at": "2026-09-17 15:41:31",
-      "last_updated": "2026-09-24 23:31:42"
+      "last_updated": "2026-09-24 23:30:19"
     },
     "22361861": {
       "accName": "RANJAN MONDAL",
@@ -25533,9 +25529,9 @@
       "accType": "DEMO",
       "leverage": 2000,
       "balance": 10142.66,
-      "equity": 10141.06,
+      "equity": 10106.79,
       "margin": 14.93,
-      "freeMargin": 10126.13,
+      "freeMargin": 10091.86,
       "bot_version": "5.0",
       "build": "6182",
       "eventTag": "TIMER_REPORT",
@@ -26499,10 +26495,14 @@
         {
           "value": -1.6,
           "timestamp": "2026-09-24 23:29:43"
+        },
+        {
+          "value": -35.87,
+          "timestamp": "2026-09-24 23:31:42"
         }
       ],
       "created_at": "2026-09-24 13:11:02",
-      "last_updated": "2026-09-24 23:29:43"
+      "last_updated": "2026-09-24 23:31:42"
     },
     "26151897": {
       "accName": "Gayatri patil",
