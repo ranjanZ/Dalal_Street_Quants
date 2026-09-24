@@ -8,9 +8,9 @@
       "accType": "DEMO",
       "leverage": 500,
       "balance": 17769.36,
-      "equity": 17769.56,
+      "equity": 17805.95,
       "margin": 51.21,
-      "freeMargin": 17718.35,
+      "freeMargin": 17754.74,
       "bot_version": "5.0",
       "build": "6182",
       "eventTag": "TIMER_REPORT",
@@ -4426,10 +4426,14 @@
         {
           "value": 0.2,
           "timestamp": "2026-09-24 19:49:41"
+        },
+        {
+          "value": 36.59,
+          "timestamp": "2026-09-24 19:51:40"
         }
       ],
       "created_at": "2026-09-17 15:41:31",
-      "last_updated": "2026-09-24 19:49:41"
+      "last_updated": "2026-09-24 19:51:40"
     },
     "22361861": {
       "accName": "RANJAN MONDAL",
@@ -25727,14 +25731,10 @@
         {
           "value": -27.96,
           "timestamp": "2026-09-24 19:49:35"
-        },
-        {
-          "value": -27.96,
-          "timestamp": "2026-09-24 19:51:35"
         }
       ],
       "created_at": "2026-09-24 13:11:02",
-      "last_updated": "2026-09-24 19:51:35"
+      "last_updated": "2026-09-24 19:49:35"
     },
     "26151897": {
       "accName": "Gayatri patil",
