@@ -109,6 +109,16 @@
       "verified": false,
       "Licence_created_on": "2026-09-24 12:55:53",
       "Valid upto": "2026-10-24 12:55:53"
+    },
+    {
+      "Bot Version": "5.0",
+      "Login": "434269847",
+      "Name": "Standard",
+      "Broker": "Exness Technologies Ltd",
+      "Type": "DEMO",
+      "verified": false,
+      "Licence_created_on": "2026-09-24 12:57:01",
+      "Valid upto": "2026-10-24 12:57:01"
     }
   ]
 }
