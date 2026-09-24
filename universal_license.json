@@ -119,6 +119,16 @@
       "verified": true,
       "Licence_created_on": "2026-09-24 12:57:01",
       "Valid upto": "2026-10-24 12:57:01"
+    },
+    {
+      "Bot Version": "5.0",
+      "Login": "26151897",
+      "Name": "Gayatri patil",
+      "Broker": "Vantage Markets (Pty) Ltd",
+      "Type": "DEMO",
+      "verified": false,
+      "Licence_created_on": "2026-09-24 13:36:52",
+      "Valid upto": "2026-10-24 13:36:52"
     }
   ]
 }
