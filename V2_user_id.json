@@ -118,6 +118,18 @@
       "application_date": "19-09-2026",
       "account_mode": "real",
       "partner_code": "yes"
+    },
+    {
+      "metatrader_id": "477026372",
+      "server_name": "unknown",
+      "broker": "exness",
+      "name": "ibukun",
+      "account_type": "standard",
+      "Verified": "True",
+      "valid_upto": "02-01-2027",
+      "application_date": "24-09-2026",
+      "account_mode": "demo",
+      "partner_code": "no"
     }
   ]
 }
