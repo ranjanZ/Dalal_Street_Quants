@@ -22502,7 +22502,7 @@
       "freeMargin": 50000.0,
       "bot_version": "5.0",
       "build": "6182",
-      "eventTag": "EA_ATTACHED",
+      "eventTag": "TIMER_REPORT",
       "profit_list": [
         {
           "value": 0.0,
@@ -22543,10 +22543,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-24 13:38:05"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-24 13:40:04"
         }
       ],
       "created_at": "2026-09-24 13:11:02",
-      "last_updated": "2026-09-24 13:38:05"
+      "last_updated": "2026-09-24 13:40:04"
     },
     "26151897": {
       "accName": "Gayatri patil",
