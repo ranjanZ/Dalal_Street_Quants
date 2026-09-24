@@ -23612,10 +23612,10 @@
       "currency": "USD",
       "accType": "DEMO",
       "leverage": 1000,
-      "balance": 50444.74,
-      "equity": 50444.79,
-      "margin": 4.25,
-      "freeMargin": 50440.54,
+      "balance": 50445.7,
+      "equity": 50442.0,
+      "margin": 12.75,
+      "freeMargin": 50429.25,
       "bot_version": "5.0",
       "build": "6182",
       "eventTag": "TIMER_REPORT",
@@ -23939,10 +23939,14 @@
         {
           "value": 0.05,
           "timestamp": "2026-09-24 15:55:21"
+        },
+        {
+          "value": -3.7,
+          "timestamp": "2026-09-24 15:57:20"
         }
       ],
       "created_at": "2026-09-24 13:11:02",
-      "last_updated": "2026-09-24 15:55:21"
+      "last_updated": "2026-09-24 15:57:20"
     },
     "26151897": {
       "accName": "Gayatri patil",
