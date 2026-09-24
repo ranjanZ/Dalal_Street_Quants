@@ -14327,10 +14327,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-24 13:10:08"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-24 13:12:12"
         }
       ],
       "created_at": "2026-09-20 01:31:43",
-      "last_updated": "2026-09-24 13:10:08"
+      "last_updated": "2026-09-24 13:12:12"
     },
     "169396235": {
       "accName": "Demo Account",
@@ -14340,9 +14344,9 @@
       "accType": "DEMO",
       "leverage": 1000,
       "balance": 11159.42,
-      "equity": 11167.65,
+      "equity": 11152.89,
       "margin": 17.13,
-      "freeMargin": 11150.52,
+      "freeMargin": 11135.76,
       "bot_version": "5.0",
       "build": "6204",
       "eventTag": "TIMER_REPORT",
@@ -19218,14 +19222,10 @@
         {
           "value": -6.53,
           "timestamp": "2026-09-24 13:10:15"
-        },
-        {
-          "value": 8.23,
-          "timestamp": "2026-09-24 13:12:14"
         }
       ],
       "created_at": "2026-09-20 13:22:42",
-      "last_updated": "2026-09-24 13:12:14"
+      "last_updated": "2026-09-24 13:10:15"
     },
     "198981926": {
       "accName": "Standard",
@@ -22306,15 +22306,19 @@
       "freeMargin": 50000.0,
       "bot_version": "5.0",
       "build": "6182",
-      "eventTag": "EA_ATTACHED",
+      "eventTag": "EA_REMOVED",
       "profit_list": [
         {
           "value": 0.0,
           "timestamp": "2026-09-24 13:11:02"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-24 13:12:19"
         }
       ],
       "created_at": "2026-09-24 13:11:02",
-      "last_updated": "2026-09-24 13:11:02"
+      "last_updated": "2026-09-24 13:12:19"
     }
   }
 }
