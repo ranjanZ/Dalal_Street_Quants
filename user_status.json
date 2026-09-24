@@ -21775,9 +21775,9 @@
       "accType": "DEMO",
       "leverage": 200,
       "balance": 9846.84,
-      "equity": 9836.77,
+      "equity": 9836.78,
       "margin": 0.0,
-      "freeMargin": 9836.77,
+      "freeMargin": 9836.78,
       "bot_version": "5.0",
       "build": "6182",
       "eventTag": "TIMER_REPORT",
@@ -22029,10 +22029,14 @@
         {
           "value": -10.07,
           "timestamp": "2026-09-24 22:44:09"
+        },
+        {
+          "value": -10.06,
+          "timestamp": "2026-09-24 22:55:11"
         }
       ],
       "created_at": "2026-09-21 22:59:20",
-      "last_updated": "2026-09-24 22:44:09"
+      "last_updated": "2026-09-24 22:55:11"
     },
     "37401112": {
       "accName": "PRAGATI PARIDA",
