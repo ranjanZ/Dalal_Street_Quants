@@ -22231,14 +22231,10 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-24 13:41:00"
-        },
-        {
-          "value": 0.0,
-          "timestamp": "2026-09-24 13:43:01"
         }
       ],
       "created_at": "2026-09-22 14:35:53",
-      "last_updated": "2026-09-24 13:43:01"
+      "last_updated": "2026-09-24 13:41:00"
     },
     "700155327": {
       "accName": "JAYDIP KANABHAI SINHAR",
@@ -22530,7 +22526,7 @@
       "freeMargin": 50000.0,
       "bot_version": "5.0",
       "build": "6182",
-      "eventTag": "TIMER_REPORT",
+      "eventTag": "EA_REMOVED",
       "profit_list": [
         {
           "value": 0.0,
@@ -22579,10 +22575,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-09-24 13:42:04"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-24 13:43:03"
         }
       ],
       "created_at": "2026-09-24 13:11:02",
-      "last_updated": "2026-09-24 13:42:04"
+      "last_updated": "2026-09-24 13:43:03"
     },
     "26151897": {
       "accName": "Gayatri patil",
