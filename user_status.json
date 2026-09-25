@@ -22587,12 +22587,12 @@
       "accType": "DEMO",
       "leverage": 200,
       "balance": 7233.33,
-      "equity": 7229.63,
+      "equity": 7229.62,
       "margin": 0.0,
-      "freeMargin": 7229.63,
+      "freeMargin": 7229.62,
       "bot_version": "5.0",
       "build": "6182",
-      "eventTag": "EA_ATTACHED",
+      "eventTag": "EA_REMOVED",
       "profit_list": [
         {
           "value": 0.0,
@@ -22917,10 +22917,14 @@
         {
           "value": -3.7,
           "timestamp": "2026-09-25 14:01:40"
+        },
+        {
+          "value": -3.71,
+          "timestamp": "2026-09-25 14:01:49"
         }
       ],
       "created_at": "2026-09-21 22:59:20",
-      "last_updated": "2026-09-25 14:01:40"
+      "last_updated": "2026-09-25 14:01:49"
     },
     "37401112": {
       "accName": "PRAGATI PARIDA",
