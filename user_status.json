@@ -383,10 +383,10 @@
       "currency": "USD",
       "accType": "DEMO",
       "leverage": 1000,
-      "balance": 1108.19,
-      "equity": 1106.23,
-      "margin": 12.47,
-      "freeMargin": 1093.76,
+      "balance": 1109.89,
+      "equity": 1105.54,
+      "margin": 12.48,
+      "freeMargin": 1093.06,
       "bot_version": "5.2",
       "build": "6231",
       "eventTag": "User status report ",
@@ -606,10 +606,14 @@
         {
           "value": -1.96,
           "timestamp": "2026-10-05 17:53:46"
+        },
+        {
+          "value": -4.35,
+          "timestamp": "2026-10-05 17:59:28"
         }
       ],
       "created_at": "2026-10-05 12:50:47",
-      "last_updated": "2026-10-05 17:53:46"
+      "last_updated": "2026-10-05 17:59:28"
     }
   }
 }
