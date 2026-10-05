@@ -1,1 +1,26 @@
+{
+  "reports": {
+    "25823047": {
+      "accName": "RANJAN MONDAL",
+      "company": "Vantage Markets (Pty) Ltd",
+      "server": "VantageMarkets-Demo",
+      "currency": "USD",
+      "accType": "DEMO",
+      "leverage": 500,
+      "balance": 16768.13,
+      "equity": 16774.88,
+      "margin": 26.31,
+      "freeMargin": 16748.57,
+      "bot_version": "1.0",
+      "build": "6182",
+      "eventTag": "TIMER_REPORT",
+      "profit_list": [
+        {
+          "value": 0.0,
+          "timestamp": "2026-09-17 15:41:31"
+        }
+      ]
+    }
+  }
+}
 
