@@ -1,39 +1,5 @@
 {
   "reports": {
-    "25823047": {
-      "accName": "RANJAN MONDAL",
-      "company": "Vantage Markets (Pty) Ltd",
-      "server": "VantageMarkets-Demo",
-      "currency": "USD",
-      "accType": "DEMO",
-      "leverage": 500,
-      "balance": 4061.01,
-      "equity": 4061.01,
-      "margin": 0.0,
-      "freeMargin": 4061.01,
-      "bot_version": "5.2",
-      "build": "6230",
-      "eventTag": "User status report ",
-      "profit_list": [
-        {
-          "value": 0.0,
-          "timestamp": "2026-09-17 15:41:31"
-        },
-        {
-          "value": 0.0,
-          "timestamp": "2026-10-05 11:33:15"
-        },
-        {
-          "value": 0.0,
-          "timestamp": "2026-10-05 11:34:39"
-        },
-        {
-          "value": 0.0,
-          "timestamp": "2026-10-05 11:35:23"
-        }
-      ],
-      "last_updated": "2026-10-05 11:35:23"
-    },
     "5366": {
       "accName": "45346",
       "company": "sdfsdg",
