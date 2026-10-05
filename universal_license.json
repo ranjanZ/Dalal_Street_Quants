@@ -29,6 +29,16 @@
       "verified": false,
       "Licence_created_on": "2026-10-05 12:44:39",
       "Valid upto": "2026-11-04 12:44:39"
+    },
+    {
+      "Bot Version": "5.2",
+      "Login": "0",
+      "Name": "",
+      "Broker": "",
+      "Type": "REAL",
+      "verified": false,
+      "Licence_created_on": "2026-10-05 12:48:27",
+      "Valid upto": "2026-11-04 12:48:27"
     }
   ]
 }
