@@ -7,10 +7,10 @@
       "currency": "USD",
       "accType": "DEMO",
       "leverage": 500,
-      "balance": 4072.59,
-      "equity": 4072.92,
+      "balance": 4071.94,
+      "equity": 4072.1,
       "margin": 8.27,
-      "freeMargin": 4064.65,
+      "freeMargin": 4063.83,
       "bot_version": "5.2",
       "build": "6230",
       "eventTag": "User status report ",
@@ -4738,10 +4738,14 @@
         {
           "value": 0.33,
           "timestamp": "2026-10-05 11:10:29"
+        },
+        {
+          "value": 0.16,
+          "timestamp": "2026-10-05 11:11:03"
         }
       ],
       "created_at": "2026-09-17 15:41:31",
-      "last_updated": "2026-10-05 11:10:29"
+      "last_updated": "2026-10-05 11:11:03"
     },
     "22361861": {
       "accName": "RANJAN MONDAL",
