@@ -9,6 +9,16 @@
       "verified": true,
       "Licence_created_on": "2026-10-05 09:11:45",
       "Valid upto": "2026-11-04 09:11:45"
+    },
+    {
+      "Bot Version": "5.0",
+      "Login": "300597",
+      "Name": "Hadi",
+      "Broker": "Roco Broker Ltd",
+      "Type": "DEMO",
+      "verified": false,
+      "Licence_created_on": "2026-10-05 09:32:09",
+      "Valid upto": "2026-11-04 09:32:09"
     }
   ]
 }
