@@ -169,12 +169,12 @@
       "last_updated": "2026-10-05 12:48:24"
     },
     "318675946": {
-      "accName": "",
-      "company": "",
+      "accName": "Demo Account",
+      "company": "XM Global Limited",
       "server": "XMGlobal-MT5 7",
-      "currency": "",
-      "accType": "REAL",
-      "leverage": 0,
+      "currency": "USD",
+      "accType": "DEMO",
+      "leverage": 1000,
       "balance": 1000.0,
       "equity": 1000.0,
       "margin": 0.0,
@@ -186,10 +186,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-10-05 12:50:47"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-10-05 13:03:08"
         }
       ],
       "created_at": "2026-10-05 12:50:47",
-      "last_updated": "2026-10-05 12:50:47"
+      "last_updated": "2026-10-05 13:03:08"
     }
   }
 }
