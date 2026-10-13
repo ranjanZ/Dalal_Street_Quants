@@ -1090,9 +1090,9 @@
       "accType": "DEMO",
       "leverage": 1000,
       "balance": 9979.09,
-      "equity": 9979.25,
+      "equity": 9979.17,
       "margin": 4.16,
-      "freeMargin": 9975.09,
+      "freeMargin": 9975.01,
       "bot_version": "5.2",
       "build": "6230",
       "eventTag": "User status report ",
@@ -1140,10 +1140,14 @@
         {
           "value": 0.16,
           "timestamp": "2026-10-13 21:09:45"
+        },
+        {
+          "value": 0.08,
+          "timestamp": "2026-10-13 21:15:26"
         }
       ],
       "created_at": "2026-10-13 20:19:51",
-      "last_updated": "2026-10-13 21:09:45"
+      "last_updated": "2026-10-13 21:15:26"
     }
   }
 }
