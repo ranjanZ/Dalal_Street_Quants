@@ -130,6 +130,18 @@
       "application_date": "24-09-2026",
       "account_mode": "demo",
       "partner_code": "no"
+    },
+    {
+      "metatrader_id": "5056956859",
+      "server_name": "unknown",
+      "broker": "vantage",
+      "name": "Chetan Kapoor",
+      "account_type": "cent",
+      "Verified": "True",
+      "valid_upto": "21-01-2027",
+      "application_date": "13-10-2026",
+      "account_mode": "demo",
+      "partner_code": "yes"
     }
   ]
 }
