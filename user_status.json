@@ -1189,10 +1189,10 @@
       "currency": "USD",
       "accType": "DEMO",
       "leverage": 1000,
-      "balance": 10164.18,
-      "equity": 10156.49,
-      "margin": 12.57,
-      "freeMargin": 10143.92,
+      "balance": 10165.52,
+      "equity": 10152.85,
+      "margin": 0.0,
+      "freeMargin": 10152.85,
       "bot_version": "5.2",
       "build": "6230",
       "eventTag": "User status report ",
@@ -2068,10 +2068,14 @@
         {
           "value": -7.69,
           "timestamp": "2026-10-16 14:53:50"
+        },
+        {
+          "value": -12.67,
+          "timestamp": "2026-10-16 14:59:33"
         }
       ],
       "created_at": "2026-10-13 20:19:51",
-      "last_updated": "2026-10-16 14:53:50"
+      "last_updated": "2026-10-16 14:59:33"
     },
     "337076779": {
       "accName": "Demo Account",
@@ -2080,10 +2084,10 @@
       "currency": "USD",
       "accType": "DEMO",
       "leverage": 1000,
-      "balance": 10231.88,
-      "equity": 10150.53,
-      "margin": 29.26,
-      "freeMargin": 10121.27,
+      "balance": 10225.24,
+      "equity": 10131.28,
+      "margin": 25.04,
+      "freeMargin": 10106.24,
       "bot_version": "5.2",
       "build": "6257",
       "eventTag": "User status report ",
@@ -2315,14 +2319,10 @@
         {
           "value": -93.96,
           "timestamp": "2026-10-16 14:25:32"
-        },
-        {
-          "value": -81.35,
-          "timestamp": "2026-10-16 14:59:30"
         }
       ],
       "created_at": "2026-10-15 15:54:35",
-      "last_updated": "2026-10-16 14:59:30"
+      "last_updated": "2026-10-16 14:25:32"
     }
   }
 }
