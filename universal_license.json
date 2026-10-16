@@ -79,6 +79,16 @@
       "verified": true,
       "Licence_created_on": "2026-10-15 15:54:39",
       "Valid upto": "2026-11-14 15:54:39"
+    },
+    {
+      "Bot Version": "5.2",
+      "Login": "26293867",
+      "Name": "client",
+      "Broker": "Vantage Markets (Pty) Ltd",
+      "Type": "DEMO",
+      "verified": false,
+      "Licence_created_on": "2026-10-16 16:13:26",
+      "Valid upto": "2026-11-15 16:13:26"
     }
   ]
 }
