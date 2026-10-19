@@ -3397,10 +3397,10 @@
       "currency": "USC",
       "accType": "DEMO",
       "leverage": 2000,
-      "balance": 11017.42,
-      "equity": 10949.3,
-      "margin": 61.49,
-      "freeMargin": 10887.81,
+      "balance": 11033.76,
+      "equity": 10992.18,
+      "margin": 61.51,
+      "freeMargin": 10930.67,
       "bot_version": "5.2",
       "build": "6230",
       "eventTag": "User status report ",
@@ -3980,10 +3980,14 @@
         {
           "value": -68.12,
           "timestamp": "2026-10-19 21:36:17"
+        },
+        {
+          "value": -41.58,
+          "timestamp": "2026-10-19 21:42:04"
         }
       ],
       "created_at": "2026-10-19 09:24:12",
-      "last_updated": "2026-10-19 21:36:17"
+      "last_updated": "2026-10-19 21:42:04"
     },
     "26288400": {
       "accName": "SURAJ HARISHCHANDRA SHINDE",
