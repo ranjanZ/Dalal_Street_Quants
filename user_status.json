@@ -3218,9 +3218,9 @@
       "accType": "DEMO",
       "leverage": 2000,
       "balance": 9672.86,
-      "equity": 9484.16,
+      "equity": 9153.01,
       "margin": 309.65,
-      "freeMargin": 9174.51,
+      "freeMargin": 8843.36,
       "bot_version": "5.2",
       "build": "6230",
       "eventTag": "User status report ",
@@ -3588,10 +3588,14 @@
         {
           "value": -188.7,
           "timestamp": "2026-10-19 16:35:50"
+        },
+        {
+          "value": -519.85,
+          "timestamp": "2026-10-19 16:41:31"
         }
       ],
       "created_at": "2026-10-19 09:24:12",
-      "last_updated": "2026-10-19 16:35:50"
+      "last_updated": "2026-10-19 16:41:31"
     },
     "26288400": {
       "accName": "SURAJ HARISHCHANDRA SHINDE",
