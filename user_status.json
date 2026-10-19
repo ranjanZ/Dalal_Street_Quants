@@ -3094,10 +3094,10 @@
       "currency": "USD",
       "accType": "REAL",
       "leverage": 1000,
-      "balance": 138.65,
-      "equity": 136.65,
-      "margin": 12.44,
-      "freeMargin": 124.21,
+      "balance": 142.41,
+      "equity": 142.25,
+      "margin": 4.15,
+      "freeMargin": 138.1,
       "bot_version": "5.2",
       "build": "6230",
       "eventTag": "User status report ",
@@ -3349,10 +3349,14 @@
         {
           "value": -2.0,
           "timestamp": "2026-10-19 20:38:50"
+        },
+        {
+          "value": -0.16,
+          "timestamp": "2026-10-19 20:44:31"
         }
       ],
       "created_at": "2026-10-17 19:58:15",
-      "last_updated": "2026-10-19 20:38:50"
+      "last_updated": "2026-10-19 20:44:31"
     },
     "264975": {
       "accName": "Ranjan Mondal",
