@@ -2388,10 +2388,10 @@
       "currency": "USD",
       "accType": "DEMO",
       "leverage": 1000,
-      "balance": 1019.3,
-      "equity": 1553.5,
-      "margin": 621.32,
-      "freeMargin": 932.18,
+      "balance": 81.19,
+      "equity": 97.43,
+      "margin": 0.0,
+      "freeMargin": 97.43,
       "bot_version": "5.2",
       "build": "6257",
       "eventTag": "User status report ",
@@ -3143,14 +3143,10 @@
         {
           "value": 0.0,
           "timestamp": "2026-10-20 10:38:39"
-        },
-        {
-          "value": 534.2,
-          "timestamp": "2026-10-20 10:40:33"
         }
       ],
       "created_at": "2026-10-15 15:54:35",
-      "last_updated": "2026-10-20 10:40:33"
+      "last_updated": "2026-10-20 10:38:39"
     },
     "26293867": {
       "accName": "client",
@@ -3514,9 +3510,9 @@
       "accType": "DEMO",
       "leverage": 2000,
       "balance": 11254.93,
-      "equity": 11247.24,
-      "margin": 6.22,
-      "freeMargin": 11241.02,
+      "equity": 11232.37,
+      "margin": 10.36,
+      "freeMargin": 11222.01,
       "bot_version": "5.2",
       "build": "6230",
       "eventTag": "User status report ",
@@ -4288,10 +4284,14 @@
         {
           "value": -7.69,
           "timestamp": "2026-10-20 10:37:54"
+        },
+        {
+          "value": -22.56,
+          "timestamp": "2026-10-20 10:40:34"
         }
       ],
       "created_at": "2026-10-19 09:24:12",
-      "last_updated": "2026-10-20 10:37:54"
+      "last_updated": "2026-10-20 10:40:34"
     },
     "26288400": {
       "accName": "SURAJ HARISHCHANDRA SHINDE",
