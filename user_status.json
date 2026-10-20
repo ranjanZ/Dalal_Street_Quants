@@ -4526,10 +4526,10 @@
       "currency": "USD",
       "accType": "REAL",
       "leverage": 1000,
-      "balance": 81.19,
-      "equity": 97.43,
-      "margin": 0.0,
-      "freeMargin": 97.43,
+      "balance": 81.32,
+      "equity": 97.36,
+      "margin": 0.41,
+      "freeMargin": 96.95,
       "bot_version": "5.2",
       "build": "6257",
       "eventTag": "User status report ",
@@ -4581,10 +4581,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-10-20 10:55:56"
+        },
+        {
+          "value": -0.2,
+          "timestamp": "2026-10-20 11:01:34"
         }
       ],
       "created_at": "2026-10-20 10:12:05",
-      "last_updated": "2026-10-20 10:55:56"
+      "last_updated": "2026-10-20 11:01:34"
     }
   }
 }
