@@ -4739,9 +4739,9 @@
       "accType": "REAL",
       "leverage": 1000,
       "balance": 97.02,
-      "equity": 112.65,
+      "equity": 111.61,
       "margin": 1.24,
-      "freeMargin": 111.41,
+      "freeMargin": 110.37,
       "bot_version": "5.2",
       "build": "6257",
       "eventTag": "User status report ",
@@ -4821,10 +4821,14 @@
         {
           "value": -0.61,
           "timestamp": "2026-10-20 14:43:01"
+        },
+        {
+          "value": -1.65,
+          "timestamp": "2026-10-20 14:48:41"
         }
       ],
       "created_at": "2026-10-20 10:12:05",
-      "last_updated": "2026-10-20 14:43:01"
+      "last_updated": "2026-10-20 14:48:41"
     }
   }
 }
