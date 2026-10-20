@@ -136,7 +136,7 @@
       "Name": "",
       "Broker": "",
       "Type": "REAL",
-      "verified": false,
+      "verified": true,
       "Licence_created_on": "2026-10-20 10:12:09",
       "Valid upto": "2026-11-19 10:12:09"
     }
