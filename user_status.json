@@ -5136,10 +5136,10 @@
       "currency": "USC",
       "accType": "DEMO",
       "leverage": 2000,
-      "balance": 869.85,
-      "equity": 664.73,
-      "margin": 20.44,
-      "freeMargin": 644.29,
+      "balance": 767.63,
+      "equity": 699.96,
+      "margin": 134.34,
+      "freeMargin": 565.62,
       "bot_version": "5.2",
       "build": "6241",
       "eventTag": "User status report ",
@@ -5183,10 +5183,14 @@
         {
           "value": -205.12,
           "timestamp": "2026-10-21 21:42:45"
+        },
+        {
+          "value": -67.67,
+          "timestamp": "2026-10-21 21:45:54"
         }
       ],
       "created_at": "2026-10-21 20:57:23",
-      "last_updated": "2026-10-21 21:42:45"
+      "last_updated": "2026-10-21 21:45:54"
     }
   }
 }
