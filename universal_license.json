@@ -146,7 +146,7 @@
       "Name": "Fahim Khan",
       "Broker": "CXM Direct LLC",
       "Type": "DEMO",
-      "verified": false,
+      "verified": true,
       "Licence_created_on": "2026-10-21 20:56:52",
       "Valid upto": "2026-11-20 20:56:52"
     },
@@ -156,7 +156,7 @@
       "Name": "Rova Shoes Shoes",
       "Broker": "CXM Direct LLC",
       "Type": "DEMO",
-      "verified": true,
+      "verified": false,
       "Licence_created_on": "2026-10-21 20:57:28",
       "Valid upto": "2026-11-20 20:57:28"
     }
