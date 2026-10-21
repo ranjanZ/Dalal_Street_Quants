@@ -139,6 +139,16 @@
       "verified": true,
       "Licence_created_on": "2026-10-20 10:12:09",
       "Valid upto": "2026-11-19 10:12:09"
+    },
+    {
+      "Bot Version": "5.2",
+      "Login": "265666",
+      "Name": "Fahim Khan",
+      "Broker": "CXM Direct LLC",
+      "Type": "DEMO",
+      "verified": false,
+      "Licence_created_on": "2026-10-21 20:56:52",
+      "Valid upto": "2026-11-20 20:56:52"
     }
   ]
 }
