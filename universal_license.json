@@ -166,7 +166,7 @@
       "Name": "Demo Account",
       "Broker": "XM Global Limited",
       "Type": "DEMO",
-      "verified": false,
+      "verified": true,
       "Licence_created_on": "2026-10-23 18:36:11",
       "Valid upto": "2026-11-22 18:36:11"
     }
