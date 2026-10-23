@@ -5090,9 +5090,9 @@
       "accType": "DEMO",
       "leverage": 2000,
       "balance": 17600.05,
-      "equity": 16761.96,
+      "equity": 16821.98,
       "margin": 400.05,
-      "freeMargin": 16361.91,
+      "freeMargin": 16421.93,
       "bot_version": "5.2",
       "build": "6274",
       "eventTag": "User status report ",
@@ -5184,10 +5184,14 @@
         {
           "value": -838.09,
           "timestamp": "2026-10-23 20:42:31"
+        },
+        {
+          "value": -778.07,
+          "timestamp": "2026-10-23 20:48:14"
         }
       ],
       "created_at": "2026-10-21 20:56:42",
-      "last_updated": "2026-10-23 20:42:31"
+      "last_updated": "2026-10-23 20:48:14"
     },
     "265537": {
       "accName": "Rova Shoes Shoes",
