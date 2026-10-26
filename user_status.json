@@ -5113,10 +5113,10 @@
       "currency": "USC",
       "accType": "DEMO",
       "leverage": 2000,
-      "balance": 19443.96,
-      "equity": 17463.33,
-      "margin": 494.57,
-      "freeMargin": 16968.76,
+      "balance": 21440.98,
+      "equity": 21440.98,
+      "margin": 0.0,
+      "freeMargin": 21440.98,
       "bot_version": "5.2",
       "build": "6274",
       "eventTag": "User status report ",
@@ -5248,10 +5248,14 @@
         {
           "value": -1980.63,
           "timestamp": "2026-10-23 21:24:12"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-10-26 19:45:20"
         }
       ],
       "created_at": "2026-10-21 20:56:42",
-      "last_updated": "2026-10-23 21:24:12"
+      "last_updated": "2026-10-26 19:45:20"
     },
     "265537": {
       "accName": "Rova Shoes Shoes",
