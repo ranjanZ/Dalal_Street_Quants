@@ -169,6 +169,16 @@
       "verified": true,
       "Licence_created_on": "2026-10-23 18:36:11",
       "Valid upto": "2026-11-22 18:36:11"
+    },
+    {
+      "Bot Version": "5.2",
+      "Login": "474807797",
+      "Name": "DST BO",
+      "Broker": "Exness Technologies Ltd",
+      "Type": "DEMO",
+      "verified": false,
+      "Licence_created_on": "2026-10-31 23:26:17",
+      "Valid upto": "2026-11-30 23:26:17"
     }
   ]
 }
