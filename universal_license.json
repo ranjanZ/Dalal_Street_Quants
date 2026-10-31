@@ -166,7 +166,7 @@
       "Name": "DST BO",
       "Broker": "Exness Technologies Ltd",
       "Type": "DEMO",
-      "verified": false,
+      "verified": true,
       "Licence_created_on": "2026-10-31 23:26:17",
       "Valid upto": "2026-11-30 23:26:17"
     },
