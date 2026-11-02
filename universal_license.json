@@ -186,7 +186,7 @@
       "Name": "Sachin Choudhari",
       "Broker": "XM Global Limited",
       "Type": "REAL",
-      "verified": false,
+      "verified": true,
       "Licence_created_on": "2026-11-02 14:29:54",
       "Valid upto": "2026-12-02 14:29:54"
     },
