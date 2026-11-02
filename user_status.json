@@ -4679,6 +4679,29 @@
       ],
       "created_at": "2026-10-31 23:43:42",
       "last_updated": "2026-11-02 14:18:46"
+    },
+    "420807259": {
+      "accName": "Sachin Choudhari",
+      "company": "XM Global Limited",
+      "server": "XMGlobal-MT5 17",
+      "currency": "USD",
+      "accType": "REAL",
+      "leverage": 1000,
+      "balance": 0.0,
+      "equity": 0.0,
+      "margin": 0.0,
+      "freeMargin": 0.0,
+      "bot_version": "5.2",
+      "build": "6296",
+      "eventTag": "User status report ",
+      "profit_list": [
+        {
+          "value": 0.0,
+          "timestamp": "2026-11-02 14:29:50"
+        }
+      ],
+      "created_at": "2026-11-02 14:29:50",
+      "last_updated": "2026-11-02 14:29:50"
     }
   }
 }
