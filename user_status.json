@@ -417,16 +417,16 @@
       "last_updated": "2026-11-02 22:59:56"
     },
     "36523582": {
-      "accName": "",
-      "company": "",
+      "accName": "Live CENT ECN",
+      "company": "Vantage Markets (Pty) Ltd",
       "server": "VantageMarkets-Live 21",
-      "currency": "",
+      "currency": "USC",
       "accType": "REAL",
-      "leverage": 0,
-      "balance": 1052.0,
-      "equity": 1395.0,
+      "leverage": 500,
+      "balance": 1.42,
+      "equity": 1.42,
       "margin": 0.0,
-      "freeMargin": 1395.0,
+      "freeMargin": 1.42,
       "bot_version": "5.18",
       "build": "6257",
       "eventTag": "User status report ",
@@ -434,10 +434,14 @@
         {
           "value": 354.0,
           "timestamp": "2026-11-02 23:02:54"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-11-02 23:12:44"
         }
       ],
       "created_at": "2026-11-02 23:02:54",
-      "last_updated": "2026-11-02 23:02:54"
+      "last_updated": "2026-11-02 23:12:44"
     }
   }
 }
