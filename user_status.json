@@ -4633,9 +4633,9 @@
       "accType": "DEMO",
       "leverage": 500,
       "balance": 2808.98,
-      "equity": 2955.9,
-      "margin": 54.58,
-      "freeMargin": 2901.32,
+      "equity": 2979.26,
+      "margin": 23.38,
+      "freeMargin": 2955.88,
       "bot_version": "5.18",
       "build": "6230",
       "eventTag": "User status report ",
@@ -4687,10 +4687,14 @@
         {
           "value": 155.31,
           "timestamp": "2026-11-02 15:51:46"
+        },
+        {
+          "value": 170.78,
+          "timestamp": "2026-11-02 16:22:46"
         }
       ],
       "created_at": "2026-10-31 23:43:42",
-      "last_updated": "2026-11-02 15:51:46"
+      "last_updated": "2026-11-02 16:22:46"
     },
     "420807259": {
       "accName": "Sachin Choudhari",
