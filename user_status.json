@@ -184,9 +184,9 @@
       "accType": "DEMO",
       "leverage": 1000,
       "balance": 1051.9,
-      "equity": 1203.05,
-      "margin": 122.41,
-      "freeMargin": 1080.64,
+      "equity": 1310.11,
+      "margin": 27.68,
+      "freeMargin": 1282.43,
       "bot_version": "5.18",
       "build": "6257",
       "eventTag": "User status report ",
@@ -210,10 +210,14 @@
         {
           "value": 171.05,
           "timestamp": "2026-11-02 20:37:06"
+        },
+        {
+          "value": 281.39,
+          "timestamp": "2026-11-02 21:08:06"
         }
       ],
       "created_at": "2026-11-02 18:59:22",
-      "last_updated": "2026-11-02 20:37:06"
+      "last_updated": "2026-11-02 21:08:06"
     },
     "265666": {
       "accName": "FAHIM FAROOK KHAN",
