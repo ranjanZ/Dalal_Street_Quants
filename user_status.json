@@ -1,7 +1,7 @@
 {
   "reports": {
     "5366": {
-      "accName": "45346",
+      "accName": "1234",
       "company": "TEST",
       "server": "TEST",
       "currency": "USC",
@@ -13,7 +13,7 @@
       "freeMargin": 9550.0,
       "bot_version": "v5.2",
       "build": "",
-      "eventTag": "fsdfds",
+      "eventTag": "test",
       "profit_list": [
         {
           "value": 50.0,
