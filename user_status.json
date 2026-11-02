@@ -186,10 +186,10 @@
       "currency": "USC",
       "accType": "DEMO",
       "leverage": 2000,
-      "balance": 14320.33,
-      "equity": 14320.33,
-      "margin": 0.0,
-      "freeMargin": 14320.33,
+      "balance": 14077.0,
+      "equity": 13212.6,
+      "margin": 394.43,
+      "freeMargin": 12818.17,
       "bot_version": "5.2",
       "build": "6274",
       "eventTag": "User status report ",
@@ -201,10 +201,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-11-02 19:42:13"
+        },
+        {
+          "value": -864.4,
+          "timestamp": "2026-11-02 19:47:48"
         }
       ],
       "created_at": "2026-11-02 19:36:00",
-      "last_updated": "2026-11-02 19:42:13"
+      "last_updated": "2026-11-02 19:47:48"
     },
     "324344806": {
       "accName": "FAHIM FAROOK KHAN",
