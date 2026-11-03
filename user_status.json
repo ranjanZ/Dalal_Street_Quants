@@ -804,6 +804,29 @@
       ],
       "created_at": "2026-11-03 18:37:19",
       "last_updated": "2026-11-03 23:41:35"
+    },
+    "1398026": {
+      "accName": "EDDY JEAN LILIAN MARTINOT",
+      "company": "VT Markets (Pty) Ltd",
+      "server": "VTMarkets-Demo",
+      "currency": "USD",
+      "accType": "DEMO",
+      "leverage": 100,
+      "balance": 5686.39,
+      "equity": 5686.39,
+      "margin": 0.0,
+      "freeMargin": 5686.39,
+      "bot_version": "5.20",
+      "build": "6295",
+      "eventTag": "User status report ",
+      "profit_list": [
+        {
+          "value": 0.0,
+          "timestamp": "2026-11-03 23:51:56"
+        }
+      ],
+      "created_at": "2026-11-03 23:51:56",
+      "last_updated": "2026-11-03 23:51:56"
     }
   }
 }
