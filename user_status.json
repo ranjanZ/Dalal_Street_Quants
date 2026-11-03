@@ -164,7 +164,7 @@
       "currency": "USD",
       "accType": "DEMO",
       "leverage": 1000,
-      "balance": 999.7,
+      "balance": 997.06,
       "equity": 997.06,
       "margin": 0.0,
       "freeMargin": 997.06,
@@ -290,11 +290,11 @@
         },
         {
           "value": 0.0,
-          "timestamp": "2026-11-03 19:27:44"
+          "timestamp": "2026-11-03 19:27:45"
         }
       ],
       "created_at": "2026-11-02 18:50:34",
-      "last_updated": "2026-11-03 19:27:44"
+      "last_updated": "2026-11-03 19:27:45"
     },
     "337076779": {
       "accName": "Demo Account",
