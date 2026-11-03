@@ -547,10 +547,10 @@
       "currency": "USC",
       "accType": "REAL",
       "leverage": 500,
-      "balance": 1.42,
-      "equity": 1.42,
+      "balance": 10109.26,
+      "equity": 10144.09,
       "margin": 0.0,
-      "freeMargin": 1.42,
+      "freeMargin": 10144.09,
       "bot_version": "5.18",
       "build": "6257",
       "eventTag": "User status report ",
@@ -566,10 +566,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-11-02 23:16:34"
+        },
+        {
+          "value": 351.51,
+          "timestamp": "2026-11-03 18:58:51"
         }
       ],
       "created_at": "2026-11-02 23:02:54",
-      "last_updated": "2026-11-02 23:16:34"
+      "last_updated": "2026-11-03 18:58:51"
     },
     "279809610": {
       "accName": "MQL5 TEST EA",
