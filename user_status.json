@@ -837,9 +837,9 @@
       "accType": "DEMO",
       "leverage": 2000,
       "balance": 11908.98,
-      "equity": 12072.14,
-      "margin": 49.56,
-      "freeMargin": 12022.58,
+      "equity": 12124.5,
+      "margin": 33.04,
+      "freeMargin": 12091.46,
       "bot_version": "5.20",
       "build": "6230",
       "eventTag": "User status report ",
@@ -1079,10 +1079,14 @@
         {
           "value": 263.64,
           "timestamp": "2026-11-05 07:55:44"
+        },
+        {
+          "value": 263.64,
+          "timestamp": "2026-11-05 08:01:18"
         }
       ],
       "created_at": "2026-11-02 22:34:44",
-      "last_updated": "2026-11-05 07:55:44"
+      "last_updated": "2026-11-05 08:01:18"
     },
     "36523582": {
       "accName": "Live CENT ECN",
