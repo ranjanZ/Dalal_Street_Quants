@@ -249,6 +249,16 @@
       "verified": false,
       "Licence_created_on": "2026-11-04 11:39:05",
       "Valid upto": "2026-12-04 11:39:05"
+    },
+    {
+      "Bot Version": "v1.0",
+      "Login": "test123456",
+      "Name": "Test User",
+      "Broker": "XM",
+      "Type": "real",
+      "verified": false,
+      "Licence_created_on": "2026-11-08 07:12:48",
+      "Valid upto": "2026-12-08 07:12:48"
     }
   ]
 }
