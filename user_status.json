@@ -1426,7 +1426,7 @@
       "currency": "USD",
       "accType": "DEMO",
       "leverage": 500,
-      "balance": 2567.23,
+      "balance": 2568.24,
       "equity": 2567.23,
       "margin": 0.0,
       "freeMargin": 2567.23,
@@ -1441,10 +1441,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-11-08 13:30:17"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-11-08 13:38:53"
         }
       ],
       "created_at": "2026-11-08 13:23:24",
-      "last_updated": "2026-11-08 13:30:17"
+      "last_updated": "2026-11-08 13:38:53"
     }
   }
 }
