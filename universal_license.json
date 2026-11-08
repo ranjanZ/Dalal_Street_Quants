@@ -249,6 +249,16 @@
       "verified": true,
       "Licence_created_on": "2026-11-08 18:18:12",
       "Valid upto": "2026-12-08 18:18:12"
+    },
+    {
+      "Bot Version": "5.30",
+      "Login": "26398984",
+      "Name": "NAVEED RAZA ANJUM",
+      "Broker": "Vantage Markets (Pty) Ltd",
+      "Type": "DEMO",
+      "verified": false,
+      "Licence_created_on": "2026-11-08 18:35:31",
+      "Valid upto": "2026-12-08 18:35:31"
     }
   ]
 }
