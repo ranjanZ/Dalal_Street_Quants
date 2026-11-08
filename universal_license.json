@@ -239,56 +239,6 @@
       "verified": false,
       "Licence_created_on": "2026-11-04 11:39:05",
       "Valid upto": "2026-12-04 11:39:05"
-    },
-    {
-      "Bot Version": "v1.0",
-      "Login": "test123456",
-      "Name": "Test User",
-      "Broker": "XM",
-      "Type": "real",
-      "verified": false,
-      "Licence_created_on": "2026-11-08 07:12:48",
-      "Valid upto": "2026-12-08 07:12:48"
-    },
-    {
-      "Bot Version": "v1.0",
-      "Login": "test123456",
-      "Name": "Test User",
-      "Broker": "XM",
-      "Type": "real",
-      "verified": false,
-      "Licence_created_on": "2026-11-08 07:12:57",
-      "Valid upto": "2026-12-08 07:12:57"
-    },
-    {
-      "Bot Version": "v1.0",
-      "Login": "test123456",
-      "Name": "Test User",
-      "Broker": "XM",
-      "Type": "real",
-      "verified": false,
-      "Licence_created_on": "2026-11-08 07:13:05",
-      "Valid upto": "2026-12-08 07:13:05"
-    },
-    {
-      "Bot Version": "5.30",
-      "Login": "25823047",
-      "Name": "RANJAN MONDAL",
-      "Broker": "Vantage Markets (Pty) Ltd",
-      "Type": "DEMO",
-      "verified": true,
-      "Licence_created_on": "2026-11-08 13:23:28",
-      "Valid upto": "2026-12-08 13:23:28"
-    },
-    {
-      "Bot Version": "v1.0",
-      "Login": "test123456",
-      "Name": "Test User",
-      "Broker": "XM",
-      "Type": "real",
-      "verified": false,
-      "Licence_created_on": "2026-11-08 11:52:03",
-      "Valid upto": "2026-12-08 11:52:03"
     }
   ]
 }
