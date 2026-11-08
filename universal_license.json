@@ -249,6 +249,16 @@
       "verified": true,
       "Licence_created_on": "2026-11-08 21:34:20",
       "Valid upto": "2026-12-08 21:34:20"
+    },
+    {
+      "Bot Version": "xxxxx",
+      "Login": "r5435",
+      "Name": "nbj",
+      "Broker": "knk",
+      "Type": "REAL",
+      "verified": false,
+      "Licence_created_on": "2026-11-08 17:49:07",
+      "Valid upto": "2026-12-08 17:49:07"
     }
   ]
 }
