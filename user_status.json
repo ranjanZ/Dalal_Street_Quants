@@ -1520,6 +1520,29 @@
       ],
       "created_at": "2026-11-08 18:18:09",
       "last_updated": "2026-11-08 18:27:19"
+    },
+    "26398984": {
+      "accName": "NAVEED RAZA ANJUM",
+      "company": "Vantage Markets (Pty) Ltd",
+      "server": "VantageMarkets-Demo",
+      "currency": "USD",
+      "accType": "DEMO",
+      "leverage": 500,
+      "balance": 1000.61,
+      "equity": 1000.61,
+      "margin": 0.0,
+      "freeMargin": 1000.61,
+      "bot_version": "5.30",
+      "build": "6308",
+      "eventTag": "User status report ",
+      "profit_list": [
+        {
+          "value": 0.0,
+          "timestamp": "2026-11-08 18:35:28"
+        }
+      ],
+      "created_at": "2026-11-08 18:35:28",
+      "last_updated": "2026-11-08 18:35:28"
     }
   }
 }
