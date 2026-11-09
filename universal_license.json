@@ -276,7 +276,7 @@
       "Name": "Naveed Raza Anjum",
       "Broker": "Deriv.com Limited",
       "Type": "DEMO",
-      "verified": false,
+      "verified": true,
       "Licence_created_on": "2026-11-09 03:26:30",
       "Valid upto": "2026-12-09 03:26:30"
     }
