@@ -1179,9 +1179,9 @@
       "accType": "DEMO",
       "leverage": 1000,
       "balance": 99.6,
-      "equity": 0.74,
+      "equity": 86.56,
       "margin": 0.0,
-      "freeMargin": 0.74,
+      "freeMargin": 86.56,
       "bot_version": "5.30",
       "build": "6286",
       "eventTag": "User status report ",
@@ -1433,10 +1433,14 @@
         {
           "value": 5.04,
           "timestamp": "2026-11-09 11:22:21"
+        },
+        {
+          "value": -112.3,
+          "timestamp": "2026-11-09 11:51:47"
         }
       ],
       "created_at": "2026-11-03 18:37:19",
-      "last_updated": "2026-11-09 11:22:21"
+      "last_updated": "2026-11-09 11:51:47"
     },
     "1398026": {
       "accName": "EDDY JEAN LILIAN MARTINOT",
