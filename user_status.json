@@ -1563,6 +1563,29 @@
       ],
       "created_at": "2026-11-08 18:35:28",
       "last_updated": "2026-11-09 03:15:07"
+    },
+    "790081": {
+      "accName": "Moneta Funded - Competition - Naveed Raza Anjum",
+      "company": "Moneta Funded Ltd.",
+      "server": "MonetaFunded-Live",
+      "currency": "USD",
+      "accType": "REAL",
+      "leverage": 1,
+      "balance": 0.0,
+      "equity": 0.0,
+      "margin": 0.0,
+      "freeMargin": 0.0,
+      "bot_version": "5.30",
+      "build": "6257",
+      "eventTag": "User status report ",
+      "profit_list": [
+        {
+          "value": 0.0,
+          "timestamp": "2026-11-09 03:25:52"
+        }
+      ],
+      "created_at": "2026-11-09 03:25:52",
+      "last_updated": "2026-11-09 03:25:52"
     }
   }
 }
