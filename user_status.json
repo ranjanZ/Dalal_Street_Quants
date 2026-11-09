@@ -1692,10 +1692,10 @@
       "currency": "USD",
       "accType": "DEMO",
       "leverage": 500,
-      "balance": 0.0,
-      "equity": 30.65,
-      "margin": 0.0,
-      "freeMargin": 30.65,
+      "balance": 30.65,
+      "equity": 33.14,
+      "margin": 24.71,
+      "freeMargin": 8.43,
       "bot_version": "5.30",
       "build": "6308",
       "eventTag": "User status report ",
@@ -1775,10 +1775,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-11-09 15:10:10"
+        },
+        {
+          "value": 5.51,
+          "timestamp": "2026-11-09 15:41:26"
         }
       ],
       "created_at": "2026-11-08 18:35:28",
-      "last_updated": "2026-11-09 15:10:10"
+      "last_updated": "2026-11-09 15:41:26"
     },
     "790081": {
       "accName": "Moneta Funded - Competition - Naveed Raza Anjum",
