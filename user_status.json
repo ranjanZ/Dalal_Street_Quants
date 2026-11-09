@@ -1178,11 +1178,11 @@
       "currency": "USD",
       "accType": "DEMO",
       "leverage": 1000,
-      "balance": 100.0,
-      "equity": 0.78,
+      "balance": 788.5,
+      "equity": 788.5,
       "margin": 0.0,
-      "freeMargin": 0.78,
-      "bot_version": "5.20",
+      "freeMargin": 788.5,
+      "bot_version": "5.30",
       "build": "6286",
       "eventTag": "User status report ",
       "profit_list": [
@@ -1377,10 +1377,14 @@
         {
           "value": 47.66,
           "timestamp": "2026-11-04 20:50:31"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-11-09 05:58:37"
         }
       ],
       "created_at": "2026-11-03 18:37:19",
-      "last_updated": "2026-11-04 20:50:31"
+      "last_updated": "2026-11-09 05:58:37"
     },
     "1398026": {
       "accName": "EDDY JEAN LILIAN MARTINOT",
