@@ -259,6 +259,16 @@
       "verified": true,
       "Licence_created_on": "2026-11-08 18:35:31",
       "Valid upto": "2026-12-08 18:35:31"
+    },
+    {
+      "Bot Version": "5.30",
+      "Login": "790081",
+      "Name": "Moneta Funded - Competition - Naveed Raza Anjum",
+      "Broker": "Moneta Funded Ltd.",
+      "Type": "REAL",
+      "verified": false,
+      "Licence_created_on": "2026-11-09 03:25:54",
+      "Valid upto": "2026-12-09 03:25:54"
     }
   ]
 }
