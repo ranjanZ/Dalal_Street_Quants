@@ -825,7 +825,7 @@
       "currency": "USC",
       "accType": "DEMO",
       "leverage": 2000,
-      "balance": 0.0,
+      "balance": 12249.67,
       "equity": 12249.67,
       "margin": 0.0,
       "freeMargin": 12249.67,
@@ -1136,10 +1136,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-11-10 17:51:57"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-11-10 17:52:09"
         }
       ],
       "created_at": "2026-11-02 22:34:44",
-      "last_updated": "2026-11-10 17:51:57"
+      "last_updated": "2026-11-10 17:52:09"
     },
     "36523582": {
       "accName": "Live CENT ECN",
