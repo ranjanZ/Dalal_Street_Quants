@@ -1598,9 +1598,9 @@
       "accType": "DEMO",
       "leverage": 500,
       "balance": 2324.79,
-      "equity": 2984.85,
-      "margin": 24.79,
-      "freeMargin": 2960.06,
+      "equity": 3005.63,
+      "margin": 8.27,
+      "freeMargin": 2997.36,
       "bot_version": "5.30",
       "build": "6230",
       "eventTag": "User status report ",
@@ -1768,10 +1768,14 @@
         {
           "value": 676.3,
           "timestamp": "2026-11-10 01:10:02"
+        },
+        {
+          "value": 716.09,
+          "timestamp": "2026-11-10 01:41:03"
         }
       ],
       "created_at": "2026-11-08 18:18:09",
-      "last_updated": "2026-11-10 01:10:02"
+      "last_updated": "2026-11-10 01:41:03"
     },
     "26398984": {
       "accName": "NAVEED RAZA ANJUM",
