@@ -2261,6 +2261,29 @@
       ],
       "created_at": "2026-11-09 03:26:28",
       "last_updated": "2026-11-11 10:53:00"
+    },
+    "812017": {
+      "accName": "",
+      "company": "",
+      "server": "CXM-Live",
+      "currency": "",
+      "accType": "REAL",
+      "leverage": 0,
+      "balance": 15649.0,
+      "equity": 15649.0,
+      "margin": 0.0,
+      "freeMargin": 15649.0,
+      "bot_version": "5.30",
+      "build": "6274",
+      "eventTag": "User status report ",
+      "profit_list": [
+        {
+          "value": 0.0,
+          "timestamp": "2026-11-13 16:25:48"
+        }
+      ],
+      "created_at": "2026-11-13 16:25:48",
+      "last_updated": "2026-11-13 16:25:48"
     }
   }
 }
