@@ -279,6 +279,16 @@
       "verified": true,
       "Licence_created_on": "2026-11-09 03:26:30",
       "Valid upto": "2026-12-09 03:26:30"
+    },
+    {
+      "Bot Version": "5.30",
+      "Login": "812017",
+      "Name": "",
+      "Broker": "",
+      "Type": "REAL",
+      "verified": false,
+      "Licence_created_on": "2026-11-13 16:25:51",
+      "Valid upto": "2026-12-13 16:25:51"
     }
   ]
 }
