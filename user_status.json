@@ -2270,9 +2270,9 @@
       "accType": "REAL",
       "leverage": 2000,
       "balance": 9141.08,
-      "equity": 9141.08,
+      "equity": 9148.58,
       "margin": 0.0,
-      "freeMargin": 9141.08,
+      "freeMargin": 9148.58,
       "bot_version": "5.30",
       "build": "6274",
       "eventTag": "User status report ",
@@ -2308,10 +2308,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-11-16 05:18:10"
+        },
+        {
+          "value": 7.5,
+          "timestamp": "2026-11-16 05:22:37"
         }
       ],
       "created_at": "2026-11-13 16:25:48",
-      "last_updated": "2026-11-16 05:18:10"
+      "last_updated": "2026-11-16 05:22:37"
     },
     "26429877": {
       "accName": "RANJAN MONDAL",
