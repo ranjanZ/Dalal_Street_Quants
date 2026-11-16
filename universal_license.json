@@ -306,7 +306,7 @@
       "Name": "Standard",
       "Broker": "Exness Technologies Ltd",
       "Type": "DEMO",
-      "verified": false,
+      "verified": true,
       "Licence_created_on": "2026-11-16 11:00:33",
       "Valid upto": "2026-12-16 11:00:33"
     }
