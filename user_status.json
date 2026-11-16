@@ -35,9 +35,9 @@
       "accType": "REAL",
       "leverage": 2000,
       "balance": 8137.29,
-      "equity": 7783.28,
+      "equity": 7783.6,
       "margin": 1.9,
-      "freeMargin": 7781.38,
+      "freeMargin": 7781.7,
       "bot_version": "5.40",
       "build": "6230",
       "eventTag": "User status report ",
@@ -377,10 +377,14 @@
         {
           "value": 14.1,
           "timestamp": "2026-11-16 18:13:01"
+        },
+        {
+          "value": 14.1,
+          "timestamp": "2026-11-16 18:13:28"
         }
       ],
       "created_at": "2026-11-02 18:18:51",
-      "last_updated": "2026-11-16 18:13:01"
+      "last_updated": "2026-11-16 18:13:28"
     },
     "474807797": {
       "accName": "DST BO",
