@@ -2715,6 +2715,29 @@
       ],
       "created_at": "2026-11-15 18:24:28",
       "last_updated": "2026-11-16 10:53:30"
+    },
+    "474798211": {
+      "accName": "Standard",
+      "company": "Exness Technologies Ltd",
+      "server": "Exness-MT5Trial15",
+      "currency": "USD",
+      "accType": "DEMO",
+      "leverage": 500,
+      "balance": 29504.04,
+      "equity": 29489.81,
+      "margin": 0.0,
+      "freeMargin": 29489.81,
+      "bot_version": "5.40",
+      "build": "6230",
+      "eventTag": "User status report ",
+      "profit_list": [
+        {
+          "value": 0.0,
+          "timestamp": "2026-11-16 11:00:30"
+        }
+      ],
+      "created_at": "2026-11-16 11:00:30",
+      "last_updated": "2026-11-16 11:00:30"
     }
   }
 }
