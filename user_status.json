@@ -2906,6 +2906,29 @@
       ],
       "created_at": "2026-11-16 11:00:30",
       "last_updated": "2026-11-16 15:04:52"
+    },
+    "53148051": {
+      "accName": "Kenneth Setsoafia Dagbie",
+      "company": "Raw Trading Ltd",
+      "server": "ICMarketsSC-Demo",
+      "currency": "USD",
+      "accType": "DEMO",
+      "leverage": 5000,
+      "balance": 1000.0,
+      "equity": 1000.0,
+      "margin": 0.0,
+      "freeMargin": 1000.0,
+      "bot_version": "5.40",
+      "build": "6320",
+      "eventTag": "User status report ",
+      "profit_list": [
+        {
+          "value": 0.0,
+          "timestamp": "2026-11-16 15:08:56"
+        }
+      ],
+      "created_at": "2026-11-16 15:08:56",
+      "last_updated": "2026-11-16 15:08:56"
     }
   }
 }
