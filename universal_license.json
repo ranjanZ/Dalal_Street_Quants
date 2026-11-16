@@ -309,6 +309,16 @@
       "verified": true,
       "Licence_created_on": "2026-11-16 11:00:33",
       "Valid upto": "2026-12-16 11:00:33"
+    },
+    {
+      "Bot Version": "5.40",
+      "Login": "53148051",
+      "Name": "Kenneth Setsoafia Dagbie",
+      "Broker": "Raw Trading Ltd",
+      "Type": "DEMO",
+      "verified": false,
+      "Licence_created_on": "2026-11-16 15:08:59",
+      "Valid upto": "2026-12-16 15:08:59"
     }
   ]
 }
