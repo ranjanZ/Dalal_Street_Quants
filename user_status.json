@@ -34,7 +34,7 @@
       "currency": "USC",
       "accType": "REAL",
       "leverage": 2000,
-      "balance": 8020.67,
+      "balance": 8021.54,
       "equity": 8021.54,
       "margin": 0.0,
       "freeMargin": 8021.54,
@@ -221,10 +221,14 @@
         {
           "value": 0.87,
           "timestamp": "2026-11-16 13:12:54"
+        },
+        {
+          "value": 0.0,
+          "timestamp": "2026-11-16 13:13:11"
         }
       ],
       "created_at": "2026-11-02 18:18:51",
-      "last_updated": "2026-11-16 13:12:54"
+      "last_updated": "2026-11-16 13:13:11"
     },
     "474807797": {
       "accName": "DST BO",
