@@ -4100,6 +4100,29 @@
       ],
       "created_at": "2026-11-18 05:39:15",
       "last_updated": "2026-11-18 05:39:15"
+    },
+    "336926934": {
+      "accName": "Demo Account",
+      "company": "XM Global Limited",
+      "server": "XMGlobal-MT5 9",
+      "currency": "USD",
+      "accType": "DEMO",
+      "leverage": 1000,
+      "balance": 1000.0,
+      "equity": 1000.0,
+      "margin": 0.0,
+      "freeMargin": 1000.0,
+      "bot_version": "5.40",
+      "build": "6295",
+      "eventTag": "User status report ",
+      "profit_list": [
+        {
+          "value": 0.0,
+          "timestamp": "2026-11-18 08:02:19"
+        }
+      ],
+      "created_at": "2026-11-18 08:02:19",
+      "last_updated": "2026-11-18 08:02:19"
     }
   }
 }
