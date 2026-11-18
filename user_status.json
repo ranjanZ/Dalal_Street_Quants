@@ -34,7 +34,7 @@
       "currency": "USC",
       "accType": "REAL",
       "leverage": 2000,
-      "balance": 7725.68,
+      "balance": 7507.42,
       "equity": 7906.84,
       "margin": 1.9,
       "freeMargin": 7904.94,
@@ -887,7 +887,7 @@
           "timestamp": "2026-11-17 23:32:00"
         },
         {
-          "value": 183.13,
+          "value": 0.0,
           "timestamp": "2026-11-18 00:03:01"
         }
       ],
