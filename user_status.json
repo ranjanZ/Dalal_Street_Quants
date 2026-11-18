@@ -2286,18 +2286,18 @@
       "last_updated": "2026-11-11 16:56:06"
     },
     "36523582": {
-      "accName": "Live CENT ECN",
-      "company": "Vantage Markets (Pty) Ltd",
+      "accName": "",
+      "company": "",
       "server": "VantageMarkets-Live 21",
-      "currency": "USC",
+      "currency": "",
       "accType": "REAL",
-      "leverage": 500,
-      "balance": 17219.97,
-      "equity": 12007.63,
-      "margin": 2824.98,
-      "freeMargin": 9182.65,
-      "bot_version": "5.18",
-      "build": "6257",
+      "leverage": 0,
+      "balance": 1000.0,
+      "equity": 1040.0,
+      "margin": 4.0,
+      "freeMargin": 1036.0,
+      "bot_version": "5.40",
+      "build": "6295",
       "eventTag": "User status report ",
       "profit_list": [
         {
@@ -2363,10 +2363,14 @@
         {
           "value": 0.0,
           "timestamp": "2026-11-04 11:27:34"
+        },
+        {
+          "value": 52.0,
+          "timestamp": "2026-11-18 09:36:59"
         }
       ],
       "created_at": "2026-11-02 23:02:54",
-      "last_updated": "2026-11-04 11:27:34"
+      "last_updated": "2026-11-18 09:36:59"
     },
     "279809610": {
       "accName": "MQL5 TEST EA",
