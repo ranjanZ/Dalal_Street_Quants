@@ -2345,9 +2345,9 @@
       "accType": "REAL",
       "leverage": 500,
       "balance": 1000.0,
-      "equity": 765.19,
-      "margin": 475.4,
-      "freeMargin": 289.79,
+      "equity": 1024.25,
+      "margin": 7.54,
+      "freeMargin": 1016.71,
       "bot_version": "5.40",
       "build": "6295",
       "eventTag": "User status report ",
@@ -2447,10 +2447,14 @@
         {
           "value": 14.04,
           "timestamp": "2026-11-18 10:27:44"
+        },
+        {
+          "value": 28.71,
+          "timestamp": "2026-11-18 10:58:44"
         }
       ],
       "created_at": "2026-11-02 23:02:54",
-      "last_updated": "2026-11-18 10:27:44"
+      "last_updated": "2026-11-18 10:58:44"
     },
     "279809610": {
       "accName": "MQL5 TEST EA",
