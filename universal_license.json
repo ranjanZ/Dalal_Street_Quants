@@ -329,6 +329,16 @@
       "verified": true,
       "Licence_created_on": "2026-11-18 08:02:21",
       "Valid upto": "2026-12-18 08:02:21"
+    },
+    {
+      "Bot Version": "5.12",
+      "Login": "26429877",
+      "Name": "RANJAN MONDAL",
+      "Broker": "Vantage Markets (Pty) Ltd",
+      "Type": "DEMO",
+      "verified": false,
+      "Licence_created_on": "2026-11-22 08:16:07",
+      "Valid upto": "2026-12-22 08:16:07"
     }
   ]
 }
