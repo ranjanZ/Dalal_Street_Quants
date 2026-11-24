@@ -349,6 +349,16 @@
       "verified": false,
       "Licence_created_on": "2026-11-22 13:22:02",
       "Valid upto": "2026-12-22 13:22:02"
+    },
+    {
+      "Bot Version": "5.40",
+      "Login": "26450222",
+      "Name": "KAVIN S",
+      "Broker": "Vantage Markets (Pty) Ltd",
+      "Type": "DEMO",
+      "verified": false,
+      "Licence_created_on": "2026-11-24 06:22:17",
+      "Valid upto": "2026-12-24 06:22:17"
     }
   ]
 }
