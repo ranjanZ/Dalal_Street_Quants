@@ -4926,6 +4926,29 @@
       ],
       "created_at": "2026-11-22 13:21:59",
       "last_updated": "2026-11-22 13:21:59"
+    },
+    "26450222": {
+      "accName": "KAVIN S",
+      "company": "Vantage Markets (Pty) Ltd",
+      "server": "VantageMarkets-Demo",
+      "currency": "USD",
+      "accType": "DEMO",
+      "leverage": 500,
+      "balance": 24.32,
+      "equity": 166.44,
+      "margin": 0.0,
+      "freeMargin": 166.44,
+      "bot_version": "5.40",
+      "build": "6327",
+      "eventTag": "User status report ",
+      "profit_list": [
+        {
+          "value": 0.0,
+          "timestamp": "2026-11-24 06:22:14"
+        }
+      ],
+      "created_at": "2026-11-24 06:22:14",
+      "last_updated": "2026-11-24 06:22:14"
     }
   }
 }
