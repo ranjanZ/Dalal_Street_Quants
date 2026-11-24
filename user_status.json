@@ -34,10 +34,10 @@
       "currency": "USC",
       "accType": "REAL",
       "leverage": 2000,
-      "balance": 9916.19,
-      "equity": 9186.31,
-      "margin": 0.0,
-      "freeMargin": 9186.31,
+      "balance": 9186.31,
+      "equity": 9146.67,
+      "margin": 216.82,
+      "freeMargin": 8929.85,
       "bot_version": "5.40",
       "build": "6230",
       "eventTag": "User status report ",
@@ -1989,10 +1989,14 @@
         {
           "value": 209.45,
           "timestamp": "2026-11-23 11:55:42"
+        },
+        {
+          "value": 324.11,
+          "timestamp": "2026-11-24 02:38:55"
         }
       ],
       "created_at": "2026-11-02 18:18:51",
-      "last_updated": "2026-11-23 11:55:42"
+      "last_updated": "2026-11-24 02:38:55"
     },
     "474807797": {
       "accName": "DST BO",
