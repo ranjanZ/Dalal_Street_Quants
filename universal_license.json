@@ -356,7 +356,7 @@
       "Name": "KAVIN S",
       "Broker": "Vantage Markets (Pty) Ltd",
       "Type": "DEMO",
-      "verified": false,
+      "verified": true,
       "Licence_created_on": "2026-11-24 06:22:17",
       "Valid upto": "2026-12-24 06:22:17"
     }
