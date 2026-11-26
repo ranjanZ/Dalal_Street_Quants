@@ -379,6 +379,16 @@
       "verified": false,
       "Licence_created_on": "2026-11-26 16:08:00",
       "Valid upto": "2026-12-26 16:08:00"
+    },
+    {
+      "Bot Version": "5.40",
+      "Login": "26430630",
+      "Name": "Gangesh Yadav",
+      "Broker": "Vantage Markets (Pty) Ltd",
+      "Type": "DEMO",
+      "verified": false,
+      "Licence_created_on": "2026-11-26 16:15:15",
+      "Valid upto": "2026-12-26 16:15:15"
     }
   ]
 }
