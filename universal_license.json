@@ -369,6 +369,16 @@
       "verified": true,
       "Licence_created_on": "2026-11-24 20:00:27",
       "Valid upto": "2026-12-24 20:00:27"
+    },
+    {
+      "Bot Version": "5.40",
+      "Login": "26490353",
+      "Name": "AVIN GOWDA",
+      "Broker": "Vantage Markets (Pty) Ltd",
+      "Type": "DEMO",
+      "verified": false,
+      "Licence_created_on": "2026-11-26 16:08:00",
+      "Valid upto": "2026-12-26 16:08:00"
     }
   ]
 }
