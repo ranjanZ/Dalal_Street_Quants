@@ -5659,6 +5659,29 @@
       ],
       "created_at": "2026-11-26 16:07:57",
       "last_updated": "2026-11-26 16:14:46"
+    },
+    "26430630": {
+      "accName": "Gangesh Yadav",
+      "company": "Vantage Markets (Pty) Ltd",
+      "server": "VantageMarkets-Demo",
+      "currency": "USD",
+      "accType": "DEMO",
+      "leverage": 500,
+      "balance": 1562.36,
+      "equity": 1562.36,
+      "margin": 0.0,
+      "freeMargin": 1562.36,
+      "bot_version": "5.40",
+      "build": "6275",
+      "eventTag": "User status report ",
+      "profit_list": [
+        {
+          "value": 0.0,
+          "timestamp": "2026-11-26 16:15:13"
+        }
+      ],
+      "created_at": "2026-11-26 16:15:13",
+      "last_updated": "2026-11-26 16:15:13"
     }
   }
 }
