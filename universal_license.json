@@ -376,7 +376,7 @@
       "Name": "AVIN GOWDA",
       "Broker": "Vantage Markets (Pty) Ltd",
       "Type": "DEMO",
-      "verified": false,
+      "verified": true,
       "Licence_created_on": "2026-11-26 16:08:00",
       "Valid upto": "2026-12-26 16:08:00"
     },
