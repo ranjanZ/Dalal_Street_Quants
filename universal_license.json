@@ -389,6 +389,16 @@
       "verified": true,
       "Licence_created_on": "2026-11-26 16:15:15",
       "Valid upto": "2026-12-26 16:15:15"
+    },
+    {
+      "Bot Version": "5.40",
+      "Login": "700018729",
+      "Name": "MATHIEU NICOLAS FINCK",
+      "Broker": "PU Prime Ltd",
+      "Type": "DEMO",
+      "verified": false,
+      "Licence_created_on": "2026-11-27 17:26:38",
+      "Valid upto": "2026-12-27 17:26:38"
     }
   ]
 }
